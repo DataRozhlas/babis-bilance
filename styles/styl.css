@@ -73,8 +73,14 @@ hr {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.slick-dots li button:before
+{
+    font-size: 12px;
+}
+
 
 .slib {
+    border-left: 1px dotted;
     padding: 10px;
     font-size: 85%;
     margin-left: 10px;
@@ -88,4 +94,6 @@ hr {
     border-radius: 50%;
     margin-top: -10px;
     margin-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
 }
