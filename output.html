@@ -1,14 +1,15 @@
 <div class="b-data__content" id="content">
+<script src="https://code.highcharts.com/highcharts.js"></script>
 
 <script type="text/javascript">document.getElementsByTagName('article')[0].classList.add('b-data--no-img');</script>
 <style>li{background:none !important}hr{max-width:none !important}</style>
 <div class="row-main row-main--article">
 <h1 class="b-data__title b-data__title--sm">
-Data z mobilů:<br>Praha se denně nafoukne o polovinu, v centru jsou návštěvníci v převaze
+Babiš vládne už 100 dnů bez důvěry. Jaké má jeho vláda výsledky?
 </h1>
 </div>
 <div class="row-main row-main--narrow">
-<p class="text-bold text-lg">Skoro 140 tisíc lidí přijede do Prahy každý den za prací. Míří hlavně do kancelářských budov a do centra města. S nimi pak dorazí i přes půl milionu návštěvníků. Ukázala to analýza dat o pohybu mobilních telefonů, kterou si nyní město nechává zpracovat.</p>
+<p class="text-bold text-lg">Perex</p>
 <p class="meta meta--icon">
 	<span class="icon-svg icon-svg--bullet">
 	<svg class="icon-svg__svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -16,34 +17,12 @@ Data z mobilů:<br>Praha se denně nafoukne o polovinu, v centru jsou návštěv
 	</svg>
 </span>
 
-	<strong>Praha</strong> <time>21. dubna 2018</time>
+	<strong>Praha</strong> <time>23. dubna 2018</time>
 </p>
 
-<figure class="b-detail__img"><img src="https://interaktivni.rozhlas.cz/brexit/media/cover.jpg" width="100%" /><figcaption>Foto <a href='#'>ČTK</a></figcaption></figure>
+<figure class="b-detail__img"><img src="https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/2017-12-13t135554z_8_171213-150526_mos.jpg?itok=2pYuiX1F" width="100%" /><figcaption>Prezident Zeman jmenoval ministry Babišovy vlády loni 13. prosince | Foto Reuters</figcaption></figure>
 
-<div class="b-inline b-inline--left"><div class="b-inline__wrap"><div class="b-inline__content"><div class="text-sm">
-    <p>
-    <b>KAREL HYNEK MÁCHA</b>
-    </p><p>
-    Karel Hynek Mácha (16. listopadu 1810 Praha-Malá Strana[1] – 6. listopadu 1836 Litoměřice[2]) byl český básník a prozaik, představitel českého romantismu a zakladatel moderní české poezie. Proslavil se jak svým životem, tak dílem, jemuž dominuje Máj (1836).
-    </p>
-</div></div></div></div>
-
-<p>Během dne se lidé v Praze soustřeďují v okolí administrativních center a obchodů, po poledni se tak nejvíc zahustí okolí Andělu, centrum Prahy (Vodičkova ulice a Petrské náměstí) a Brumlovka nedaleko Budějovické. Na poslední jmenované adrese sídlí řada velkých korporací, mezi nimi i Microsoft nebo ČEZ. Pro srovnání, na zmíněných místech je ve „špičce“ okolo šesti stovek osob na jeden hektar, průměr Prahy je 25 obyvatel na <a href="https://cs.wikipedia.org/wiki/Hektar">hektar</a> (Václavské náměstí má rozlohu asi 4 hektary).</p>
-<p>Naopak v noci se nejvíc lidí se „namačká“ ve Vršovicích, jde o 430 osob na hektar.</p>
-<p>Detaily si můžete prohlédnout v následující mapě, kterou z dat mobilních operátorů zpracoval pražský <a href="http://www.iprpraha.cz/">Institut plánování a rozvoje</a>.</p>
-<p></div><div class="row-main row-main--article"><em>Pokud vás zajímá, kolik lidí bývá ve dne a v noci ve vaší čtvrti, najděte si ji na mapě, přepněte se na časové řezy, vyberte přepínač hustota osob a potom pohybujte posuvníkem nahoře.</em></div><div class="row-main row-main--narrow"></p>
-<h2>Data na prodej</h2>
-<p><div class="b-inline b-inline--right"><div class="b-inline__wrap"><div class="b-inline__content"><div class="text-sm">
-    <p>
-    <b>KAREL HYNEK MÁCHA</b>
-    </p><p>
-    Karel Hynek Mácha (16. listopadu 1810 Praha-Malá Strana[1] – 6. listopadu 1836 Litoměřice[2]) byl český básník a prozaik, představitel českého romantismu a zakladatel moderní české poezie. Proslavil se jak svým životem, tak dílem, jemuž dominuje Máj (1836).
-    </p>
-</div></div></div></div></p>
-<p>I pokud netelefonujeme nebo neposíláme SMS, telefon pravidelně komunikuje s vysílači v síti mobilního operátora. Z dat o síle signálu a použité anténě je možné odvodit, kde se přibližně telefon nachází a jak dlouhou dobu na místě strávil.</p>
-<p>Mobilní operátor má <a href="https://www.zakonyprolidi.cz/cs/2005-127/zneni-20160919#p97-3">zákonnou povinnost</a> takové informace uchovávat, a to půl roku do minulosti, přistupovat k nim ale mohou jen bezpečnostní složky, typicky policie nebo rozvědka.</p>
-<p>Operátoři ale obdobné informace mohou anonymizovat (tedy zbavit identifikace konkrétního uživatele) a agregovat, tedy spojit informace o jednotlivcích do jakýchsi skupin. Výsledná obecná čísla pak přeprodávají dál, například marketingovým firmám či dopravním analytikům. Zpětně z nich nejde dovodit, kde se pohybuje každý jednotlivec, dávají ale určitý přehled o obecném chování obyvatel nějakého místa.</p>
+<div id="chart"></div>
 
 <p class="meta meta--right meta--big">
 <!--[[ZPRAVY_SNOWFALL_AUTHORS:FOOTER]]-->
@@ -54,4 +33,16 @@ Data z mobilů:<br>Praha se denně nafoukne o polovinu, v centru jsou návštěv
 </article>
 </div>
 </div>
-</div><script></script>
+</div><script>
+var data=[{"vlada":"V. Klaus","img":"klaus","nastup":"06.06.1992","jmenovani":"02.07.1992","duvera":"14.07.1992","konec_bez_duvery":""},{"vlada":"V. Klaus","img":"klaus","nastup":"01.06.1996","jmenovani":"04.07.1996","duvera":"25.07.1996","konec_bez_duvery":""},{"vlada":"J. Tošovský","img":"tosovsky","nastup":"02.01.1998","jmenovani":"02.01.1998","duvera":"28.01.1998","konec_bez_duvery":""},{"vlada":"M. Zeman","img":"zeman","nastup":"20.06.1998","jmenovani":"22.07.1998","duvera":"19.08.1998","konec_bez_duvery":""},{"vlada":"V. Špidla","img":"spidla","nastup":"15.06.2002","jmenovani":"15.07.2002","duvera":"07.08.2002","konec_bez_duvery":""},{"vlada":"S. Gross","img":"gross","nastup":"02.08.2004","jmenovani":"04.08.2004","duvera":"24.08.2004","konec_bez_duvery":""},{"vlada":"J. Paroubek","img":"paroubek","nastup":"25.04.2005","jmenovani":"25.04.2005","duvera":"13.05.2005","konec_bez_duvery":""},{"vlada":"M. Topolánek","img":"topolanek","nastup":"02.06.2006","jmenovani":"04.09.2006","duvera":"","konec_bez_duvery":"09.01.2007"},{"vlada":"M. Topolánek","img":"topolanek","nastup":"09.01.2007","jmenovani":"09.01.2007","duvera":"19.01.2007","konec_bez_duvery":""},{"vlada":"J. Fischer","img":"fischer","nastup":"24.03.2009","jmenovani":"08.05.2009","duvera":"07.06.2009","konec_bez_duvery":""},{"vlada":"P. Nečas","img":"necas","nastup":"29.05.2010","jmenovani":"13.07.2010","duvera":"10.08.2010","konec_bez_duvery":""},{"vlada":"J. Rusnok","img":"rusnok","nastup":"17.06.2013","jmenovani":"10.07.2013","duvera":"","konec_bez_duvery":"29.01.2014"},{"vlada":"B. Sobotka","img":"sobotka","nastup":"26.10.2013","jmenovani":"29.01.2014","duvera":"18.02.2014","konec_bez_duvery":""},{"vlada":"A. Babiš","img":"babis","nastup":"21.10.2017","jmenovani":"13.12.2017","duvera":"","konec_bez_duvery":""}]
+function dParse(v){v=v.split('.')
+return new Date(parseInt(v[2]),parseInt(v[1]),parseInt(v[0]))};var cats=[],doJmenovani=[],doDuvery=[]
+data.reverse()
+data.forEach(function(d){cats.push(d.vlada)
+var start=dParse(d.nastup)
+var appoint=dParse(d.jmenovani)
+doJmenovani.push(Math.round((appoint-start)/(1000*60*60*24)))
+var duvera=dParse(d.duvera)
+if(duvera=='Invalid Date'){duvera=dParse(d.konec_bez_duvery)};if(duvera=='Invalid Date'){duvera=new Date()};doDuvery.push(Math.round((duvera-appoint)/(1000*60*60*24)))});Highcharts.chart('chart',{chart:{type:'bar',height:600},credits:{enabled:false},title:{text:'Vlády ČR od nástupu do získání důvěry'},subtitle:{text:'Stávající vláda A. Babiše vládne bez důvěry již '
++Math.round((new Date()-new Date(2017,12,13))/(1000*60*60*24))
++' dní'},xAxis:{categories:cats},yAxis:{min:0,title:{text:'dní'}},legend:{reversed:true},plotOptions:{series:{stacking:'normal'}},series:[{dataLabels:{enabled:true},enableMouseTracking:false,name:'vláda bez důvěry',color:'#de2d26',data:doDuvery},{dataLabels:{enabled:true},enableMouseTracking:false,color:'#636363',name:'do jmenování',data:doJmenovani}]});</script>
