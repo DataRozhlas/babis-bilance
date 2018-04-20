@@ -431,7 +431,7 @@ var duvera=dParse(d.duvera)
 if(duvera=='Invalid Date'){duvera=dParse(d.konec_bez_duvery)};if(duvera=='Invalid Date'){duvera=new Date()-1000*60*60*13};doDuvery.push(Math.round((duvera-appoint)/(1000*60*60*24)))});Highcharts.chart('chart',{chart:{type:'bar',height:600},credits:{enabled:false},title:{text:'Vlády ČR od nástupu do získání důvěry'},subtitle:{text:'Stávající vláda A. Babiše vládne bez důvěry již '
 +Math.round((new Date()-1000*60*60*13-new Date(2017,11,13))/(1000*60*60*24))
 +' dní'},xAxis:{categories:cats},yAxis:{min:0,title:{text:'dní'}},legend:{reversed:true},plotOptions:{series:{stacking:'normal'}},series:[{dataLabels:{enabled:true},enableMouseTracking:false,name:'vláda bez důvěry',color:'#de2d26',data:doDuvery},{dataLabels:{enabled:true},enableMouseTracking:false,color:'#636363',name:'do jmenování',data:doJmenovani}]})
-$(document).ready(function(){$('.slider1').slick({slidesToShow:3,slidesToScroll:1,autoplay:true});});</script>
+$(document).ready(function(){$('.slider1').slick({slidesToShow:3,slidesToScroll:3,autoplay:true,infinite:true,dots:true,accessibility:false,pauseOnDotsHover:true});});</script>
 
 		</article>
 			<div class="wrapper">
