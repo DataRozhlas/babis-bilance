@@ -1,19 +1,19 @@
-title: "Babišova vláda 100 dnů bez důvěry: sliby, personální změny i nalezené miliardy. Jaké má kabinet výsledky?"
-perex: "Balík slibů v objemu bezmála 80 miliard korun, které od svého jmenování zformulovala vláda Andreje Babiše. A nejen to. Jednobarevný kabinet provázejí také výrazné personální změny, výjezdy do krajů či časný ranní budíček na zasedání. Jak se ale premiérovi a ministrům, kteří vládnou už 100 dnů bez důvěry, vlastně daří? Server iROZHLAS.cz připravil velký přehled."
+title: "Babišova vláda 131 dnů bez důvěry: sliby, personální změny i nalezené miliardy. Jaké má kabinet výsledky?"
+perex: "Bez důvěry vládne kabinet Andreje Babiše už řadu měsíců, přesně 131 dnů od jmenování prezidentem Milošem Zemanem. Jak na tom byli jeho předchůdci? Třeba druhá vláda Mirka Topolánka vláda v demisi zhruba 127, jednobarevný kabinet hnutí ANO ji tak minulý týden překonal. Rekordmanem je však v tomto ohledu zatím úřednická vláda Jiřího Rusnoka. Podívejte se v následujícím přehledu:"
 published: "23. dubna 2018"
 # autoři se zadávají až v redakčním systému
-coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/2017-12-13t135554z_8_171213-150526_mos.jpg?itok=2pYuiX1F
-coverimg_note: "Prezident Zeman jmenoval ministry Babišovy vlády loni 13. prosince | Foto Reuters"
+coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/profimedia-036841440_180420-115355_kno.jpg?itok=A9XLsESk
+coverimg_note: "Foto Profimedia"
 styles: []
 libraries: [highcharts] #jquery, jquery-csv, d3, datatables
-options: [noheader] #wide, noheader (, nopic)
+options: [] #noheader, wide, noheader (, nopic)
 ---
 
 „Já jsem toho moc neslíbil. My chodíme a sepisujeme investiční záměr této země. Nikdo to neudělal,“ [řekl na plénu sněmovny během interpelací v polovině dubna](https://www.psp.cz/eknih/2017ps/stenprot/012schuz/s012099.htm#r8) premiér v demisi a šéf hnutí ANO Andrej Babiš. Server iROZHLAS.cz proto všechny jeho sliby dohledal a spočítal. Výsledek? Jde o balík v objemu bezmála 80 miliard korun.
 
 <div id="chart"></div>
 
-<left>Své sliby Andrej Babiš plánuje financovat většinou z peněz, které vláda podle jeho slov „našla“ v rozpočtu. Nejdříve to bylo přes 8 miliard korun „úspor“, ze kterých by se měla zaplatit zhruba třímiliardová oprava silnic nižších tříd. Navýšení důchodů má zas kabinet v plánu financovat z 21 miliard korun, které by se mohly uvolnit po změně zákona Fondu národního majetku. Peníze na slevu na jízdném, která má začít platit v červnu, pak Babišova vláda vyčlenila napříč resorty z letošního rozpočtu, mimo jiné i na ministerstvu školství. Nakonec Babiš oznámil, že jeho vláda na základě podrobné analýzy „našla“ napříč ministerstvy a dalšími státními instituce hned 170 miliard korun. Jde o nároky z nespotřebovaných výdajů, jsou to však fiktivní úspory, které nemají finanční krytí.</left>
+<right><h4>Nalezené miliardy</h4>Nejdříve to bylo přes osm miliard korun „úspor“ ministerstev, ze kterých plánuje Babišova vláda financovat opravu silnic nižších tříd. Napříč resorty kabinet vyčlenil pro letošní rok také peníze na slevu na jízdné, která začne platit v červnu. Nakonec premiér v demisi oznámil, že jeho vláda „našla“ v rozpočtu ministerstev i dalších státních institucí ušetřených bezmála 170 miliard korun v podobě nároků z nespotřebovaných výdajů. Jde však o fiktivní úsporu, která nemá finanční krytí.</right>
 
 Třeba během výjezdu vlády v Libereckém kraji slíbil Babiš v Semilech novou mateřskou školku, v průběhu návštěvy Zlínska zas Kroměřížské nemocnici novou magnetickou rezonanci. Štědrý byl Babiš i v Brně. „Já si myslím, že si tu porodnici v Brně za dvě miliardy lidé zaslouží. I možná nový centrální příjem v IKEMu nebo v Krči, všude,“ [prohlásil dále před poslanci](https://www.psp.cz/eknih/2017ps/stenprot/012schuz/s012099.htm#r8).
 
@@ -21,7 +21,7 @@ Další sliby přitom jednobarevný kabinet bez důvěry už realizuje – odsou
 
 Veškeré sliby vlády Andreje Babiše najdete v následujícím přehledu, jde o položky v součtu za bezmála 80 miliard korun. U některých slibů přitom chybí „nacenění“, jelikož odhad částky není zatím k dispozici. Redakce do seznamu také nezapočítala příslib 11,6 miliard korun pro české zdravotnictví, který Babiš formuloval na svém facebooku, jelikož není přesně jasné, jak byl zamýšlen. Pokud by se však jednalo o zcela novou investici, Babišům závěrečný účet příslibů by skočil na více než 90 miliard korun.
 
-## Přehled slibů (grafika)
+## Balík slibů (grafika)
 
 Kabinet Andreje Babiše také provází výrazné personální změny - za jeho vlády skončila desítka vysokých manažerů státních institucí. Z čela České pošty odešel Martin Elkán, skončila i dvojice ředitelů nemocnic Svatopluk Němeček nebo Andrea Vrbovská.
 

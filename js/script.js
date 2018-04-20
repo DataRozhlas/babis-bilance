@@ -14,7 +14,7 @@ var data = [{"vlada":"V. Klaus","img":"klaus","nastup":"06.06.1992","jmenovani":
 {"vlada":"A. Babiš","img":"babis","nastup":"21.10.2017","jmenovani":"13.12.2017","duvera":"","konec_bez_duvery":""}]
 function dParse(v) {
     v = v.split('.')
-    return new Date(parseInt(v[2]), parseInt(v[1]), parseInt(v[0]))
+    return new Date(parseInt(v[2]), parseInt(v[1]) - 1, parseInt(v[0]))
 };
 var cats = [],
     doJmenovani = [],
@@ -31,7 +31,7 @@ data.forEach(function(d) {
         duvera = dParse(d.konec_bez_duvery)
     };
     if (duvera == 'Invalid Date') {
-        duvera = new Date()
+        duvera = new Date() - 1000*60*60*13
     };
     doDuvery.push(Math.round((duvera - appoint)/(1000*60*60*24)))
 });
@@ -48,7 +48,7 @@ Highcharts.chart('chart', {
     },
     subtitle: {
         text: 'Stávající vláda A. Babiše vládne bez důvěry již ' 
-        + Math.round((new Date() - new Date(2017, 12, 13))/(1000*60*60*24))
+        + Math.round((new Date() - 1000*60*60*13 - new Date(2017, 11, 13))/(1000*60*60*24))
         + ' dní'
     },
     xAxis: {
@@ -85,4 +85,4 @@ Highcharts.chart('chart', {
         name: 'do jmenování',
         data: doJmenovani
     }]
-});
+})
