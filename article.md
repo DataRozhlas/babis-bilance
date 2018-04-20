@@ -5,7 +5,7 @@ published: "23. dubna 2018"
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/profimedia-036841440_180420-115355_kno.jpg?itok=A9XLsESk
 coverimg_note: "Foto Profimedia"
 styles: []
-libraries: [highcharts] #jquery, jquery-csv, d3, datatables
+libraries: [highcharts, jquery, "http://code.jquery.com/jquery-migrate-1.2.1.min.js"] #jquery, jquery-csv, d3, datatables
 options: [] #noheader, wide, noheader (, nopic)
 ---
 
@@ -20,6 +20,11 @@ Další sliby přitom jednobarevný kabinet bez důvěry už realizuje – odsou
 Veškeré sliby vlády Andreje Babiše najdete v následujícím přehledu, jde o položky v součtu za bezmála 80 miliard korun. U některých slibů přitom chybí „nacenění“, jelikož odhad částky není zatím k dispozici. Redakce do seznamu také nezapočítala příslib 11,6 miliard korun pro české zdravotnictví, který Babiš formuloval na svém facebooku, jelikož není přesně jasné, jak byl zamýšlen. Pokud by se však jednalo o zcela novou investici, Babišům závěrečný účet příslibů by skočil na více než 90 miliard korun.
 
 ## Balík slibů (grafika)
+<div class="your-class">
+  <div>your content</div>
+  <div>your content</div>
+  <div>your content</div>
+</div>
 
 ## 131 dnů bez důvěry
 Bez důvěry vládne kabinet Andreje Babiše už řadu měsíců, přesně 131 dnů od jmenování prezidentem Milošem Zemanem. Jak na tom byli jeho předchůdci? Třeba druhá vláda Mirka Topolánka vláda v demisi zhruba 127, jednobarevný kabinet hnutí ANO ji tak minulý týden překonal. Rekordmanem je však v tomto ohledu zatím úřednická vláda Jiřího Rusnoka. Podívejte se v následujícím přehledu:
