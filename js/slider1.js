@@ -1,7 +1,7 @@
 $(document).ready(function(){
-  $('.your-class').slick({
-  infinite: true,
+  $('.slider1').slick({
   slidesToShow: 3,
-  slidesToScroll: 3
+  slidesToScroll: 1,
+  autoplay: true
 });
 });
