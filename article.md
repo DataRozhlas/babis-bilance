@@ -12,7 +12,7 @@ options: [] #noheader, wide, noheader (, nopic)
 „Já jsem toho moc neslíbil. My chodíme a sepisujeme investiční záměr této země. Nikdo to neudělal,“ [řekl na plénu sněmovny během interpelací v polovině dubna](https://www.psp.cz/eknih/2017ps/stenprot/012schuz/s012099.htm#r8) premiér v demisi a šéf hnutí ANO Andrej Babiš. Server iROZHLAS.cz proto všechny jeho sliby dohledal a spočítal. Výsledek? Jde o balík v objemu bezmála 80 miliard korun.
 
 ## Balík slibů za 80 miliard
-<div class="slider1">
+<div class="slider">
 <div class="slib">
 <h4 style="color: red;">27 miliard</h4>
 <p><b>na snížení daní</b></p>
@@ -39,8 +39,8 @@ options: [] #noheader, wide, noheader (, nopic)
 </div>
 <div class="slib">
 <h4 style="color: red;">4,7 miliardy</h4>
-<p><b>rekonstrukce Národního divadla a Národní galerie</b></p>
-<p class="detail">Během návštěvy památek, kam zavítal společně s ministrem kultury v demisi Iljou Šmídem (za ANO), prohlásil, že částky nejsou tak závratné, aby je nenašel, je ale třeba projekty naplánovat.</p>
+<p><b>na rekonstrukci Národního divadla a Národní galerie</b></p>
+<p class="detail">Během návštěvy památek, kam Babiš zavítal společně s ministrem kultury v demisi Iljou Šmídem (za ANO), prohlásil, že částky nejsou tak závratné, aby je nenašel, je ale třeba projekty naplánovat.</p>
 <p><a href="http://www.ceskenoviny.cz/zpravy/babis-slibil-miliardy-na-opravy-invalidovny-nd-a-narodni-galerie/1596426" target="_blank">Více informací</a></p>
 </div>
 <div class="slib">
@@ -63,19 +63,19 @@ options: [] #noheader, wide, noheader (, nopic)
 </div>
 <div class="slib">
 <h4 style="color: red;">1,7 miliardy</h4>
-<p><b>státní podpora pro Škodu Auto</b></p>
-<p class="detail">Během návštěvy Mladé Boleslavi slíbil Babiš vedení automobilky Škoda Auto státní podporu, a to z peněz, které údajně jeho vláda „našla“ napříč resorty a státními institucemi. Podle Babiše má jít investice do dopravní infrastruktury za celkem 1,7 miliardy korun, automobilka založila fond na rozvoj regionu, do kterého chce vložit 750 milionů, svůj díl do něj mají vložit kraj, město i stát.</p>
+<p><b>pro Škodu Auto</b></p>
+<p class="detail">Během návštěvy Mladé Boleslavi slíbil Babiš vedení automobilky Škoda Auto státní podporu, a to z peněz, které údajně jeho vláda „našla“ napříč resorty a státními institucemi. Podle Babiše má jít investice do dopravní infrastruktury za celkem 1,7 miliardy korun.</p>
 <p><a href="https://www.vlada.cz/cz/media-centrum/aktualne/premier-babis-vlada-podpori-rozvoj-mladoboleslavska-164585/" target="_blank">Více informací</a></p>
 </div>
 <div class="slib">
 <h4 style="color: red;">1,5 miliardy</h4>
-<p><b>dotační program pro školy a školky</b></p>
-<p class="detail">Ministryně pro místní rozvoj Kláry Dostálové během debaty se starosty středočeských obcí uvedla, že se podařilo najít 1,5 miliardy korun pro školy a školky, chystá dotační program.</p>
+<p><b>pro školy a školky</b></p>
+<p class="detail">Ministryně pro místní rozvoj v demisi Klára Dostálová (ANO) během debaty se starosty středočeských obcí uvedla, že se podařilo najít 1,5 miliardy korun pro školy a školky, chystá prý dotační program.</p>
 <p><a href="https://www.denik.cz/regiony/penize-ano-budou-slibili-starostum-premier-i-ministri-20180328.html" target="_blank">Více informací</a></p>
 </div>
 <div class="slib">
 <h4 style="color: red;">1,2 miliardy</h4>
-<p><b>navýšení rozpočtu Středočeského kraje</b></p>
+<p><b>pro Středočeský kraj</b></p>
 <p class="detail">Během návštěvy Středočeského kraje Babiš podpořil změnu koeficientu pro přerozdělování peněz jednotlivým krajům, pro tamní region by to znamenalo, že by dostal ze státního rozpočtu o asi miliardu navíc.</p>
 <p><a href="https://benesovsky.denik.cz/z-regionu/babis-kraj-s-narustem-obyvatel-ma-dostavat-vice-penez-20180329.html" target="_blank">Více informací</a></p>
 </div>
@@ -169,11 +169,22 @@ Bez důvěry vládne kabinet Andreje Babiše už řadu měsíců, přesně 131 d
 
 Kabinet Andreje Babiše přitom provází výrazné personální změny - za jeho vlády skončila desítka vysokých manažerů státních institucí. Z čela České pošty odešel Martin Elkán, skončila i dvojice ředitelů nemocnic Svatopluk Němeček nebo Andrea Vrbovská.
 
+## Ve funkci skončilo jedenáct ředitelů státem ovládaných podniků a institucí
+
 Po prověrce Nejvyššího kontrolního úřadu na post rezignovala také ředitelka Státního zdravotního ústavu Jitka Sosnovcová. Z „osobních důvodů“ rezignoval i šéf Správy železniční dopravní cesty Pavel Surý, ten však odmítá, že by jeho rozhodnutí souviselo s nástupem nového kabinetu. Přesouvá se současně na jinou pozici v rámci organizace ([více o personálních změnách čtěte ZDE](https://www.irozhlas.cz/zpravy-domov/vlada-andrej-babis-odvolani-reditele_1802231532_ako)).
 
-## Ve funkci skončilo jedenáct ředitelů státem ovládaných podniků a institucí (grafika)
+<left>
+	<h4>Babišova vláda v číslech</h4>
+<ul>	
+<li><b style="font-size:120%;">5</b> „spanilých“ jízd podnikl letos vládní kabinet, navštívil třeba Středočeský kraj, Zlínsko nebo Liberecko. Do prázdnin má v plánu vyjet svým mikrobusem do dalších pěti regionů, tento týden to bude Moravskoslezský kraj.</li>
+<li><b style="font-size:120%;">10</b> ředitelů státních podniků a institucí skončilo za vlády Andreje Babiše, a to včetně šéfa generální inspekce Michala Murína.</li>
+<li><b style="font-size:120%;">73</b> míst zrušila od nového roku vláda tzv. systematizací státní správy. O místo tak tehdy přišlo i 25 náměstků. Druhé kolo personálních změn přišlo v březnu, kdy skončila další dvacítka úředníků.</li>
+<li><b style="font-size:120%;">170</b> miliard „našla“ vláda v demisi napříč resorty a dalšími státními institucemi. Jde o nároky z nespotřebovaných výdajů, které ale nejsou finančně kryty.</li>
+<li><b style="font-size:120%;">6</b> hodin ráno je čas, ve který většinou začíná v jednací den zasedat vláda.</li>
+</ul>
+</left>
 
-Svůj úmysl z vedení Státního pozemkového úřadu oznámila také Svatava Maradová. [Zdůvodnila to tehdy](https://www.irozhlas.cz/zpravy-domov/reditelka-statniho-pozemkoveho-uradu-maradova-oznamila-rezignaci-prospeje_1803201102_bar) mimo jiné snahou usnadnit vyjednávání o vládě.
+Svůj úmysl odejít z vedení Státního pozemkového úřadu oznámila také Svatava Maradová. [Zdůvodnila to tehdy](https://www.irozhlas.cz/zpravy-domov/reditelka-statniho-pozemkoveho-uradu-maradova-oznamila-rezignaci-prospeje_1803201102_bar) mimo jiné snahou usnadnit vyjednávání o vládě.
 
 Premiér v demisi Babiš žádal také konec šéfa Generální inspekce bezpečnostních sborů Michala Murína, nemá k němu prý důvěru a zpochybnil i hospodaření inspekce. [Murín nakonec oznámil, že skončí ke konci dubna](https://www.irozhlas.cz/zpravy-domov/murin-skonci-v-cele-gibs_1804170928_miz).
 
