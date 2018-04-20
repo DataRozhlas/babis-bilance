@@ -15,7 +15,7 @@ options: [] #noheader, wide, noheader (, nopic)
 <div class="slider1">
 <div class="slib">
 <h4 style="color: red;">27 miliard</h4>
-<p><b>snížení daní zaměstnancům a živnostníkům</b></p>
+<p><b>na snížení daní</b></p>
 <p class="detail">Resort Aleny Schillerové (ANO) navrhuje v rámci daňového balíčku zrušit superhrubou mzdu a mírně snížit daně, živnostníkům pak ulevit na pojistném. Státní rozpočet mají novinky vyjít na 27 miliard korun, po započtení změn v oblasti DPH a dalších nových příjmů by však reálný dopad na rozpočet měl být 22,3 miliard korun.</p>
 <p><a href="https://ekonomika.idnes.cz/ministerstvo-financi-dan-z-prijmu-pojistne-superhruba-mzda-danovy-balicek-1ub-/ekonomika.aspx?c=A180211_205250_ekonomika_ekl" target="_blank">Více informací</a></p>
 </div>
@@ -28,18 +28,12 @@ options: [] #noheader, wide, noheader (, nopic)
 <div class="slib">
 <h4 style="color: red;">11 miliard</h4>
 <p><b>na vyšší platy učitelů</b></p>
-<p class="detail">Platy učitelů by se měly zvýšit od ledna příštího roku, jak plánovala bývalá vláda ČSSD, ANO a KDU-ČSL. Ministr v demisi Robert Plaga chtěl původně navýšení o rok odložit, Babiš však resort ujistil, že peníze na reformu financování regionálního školství budou. K nastartování je podle Plagy potřeba zhruba 11 miliard korun, dalších 15 miliard korun bude stát plošné zvýšení platů v regionálním školství. Už dříve Plaga uvedl, že by na platy i reformu financování bylo třeba téměř 30 miliard korun.</p>
+<p class="detail">Platy učitelů by se měly zvýšit od ledna příštího roku, jak plánovala bývalá vláda ČSSD, ANO a KDU-ČSL. Ministr v demisi Robert Plaga chtěl původně navýšení o rok odložit, Babiš však resort ujistil, že peníze na reformu financování regionálního školství budou.</p>
 <p><a href="http://www.ceskenoviny.cz/zpravy/reforma-financovani-skol-zacne-1-ledna-plaga-ziska-penize-navic/1602820" target="_blank">Více informací</a></p>
 </div>
 <div class="slib">
-<h4 style="color: red;">8,4 miliard</h4>
-<p><b>pro nemocnice</b></p>
-<p class="detail">„Do nemocnic, které jsou přímo řízené ministrem zdravotnictví, máme plán investovat 11,6 miliardy na 7 let. Z toho stát by měl přispět 8,4 miliardy,“ napsal Babiš na svém facebooku.</p>
-<p><a href="https://www.facebook.com/AndrejBabis/posts/1188065164663459:0" target="_blank">Více informací</a></p>
-</div>
-<div class="slib">
 <h4 style="color: red;">5,83 miliardy</h4>
-<p><b>slevy na jízdném pro studenty a seniory</b></p>
+<p><b>na slevu na jízdném</b></p>
 <p class="detail">Sleva 75 procent z jízdného v železniční i autobusové dopravě pro studenty a seniory má platit od chystané změny jízdního řádu 10. června.</p>
 <p><a href="https://www.irozhlas.cz/zpravy-domov/jizdne-student-senior-vlak-autobus-vlada_1803271108_ako" target="_blank">Více informací</a></p>
 </div>
@@ -51,7 +45,7 @@ options: [] #noheader, wide, noheader (, nopic)
 </div>
 <div class="slib">
 <h4 style="color: red;">3,4 miliardy</h4>
-<p><b>snížení DPH</b></p>
+<p><b>na snížení DPH</b></p>
 <p class="detail">Programové prohlášení vlády obsahuje snížení daně z přidané hodnoty například u točeného piva, základních potravin či kadeřnických služeb a řezaných květin, změny představilo ministerstvo financí.</p>
 <p><a href="https://ekonomika.idnes.cz/dph-zmeny-2018-chs-/ekonomika.aspx?c=A180320_162303_ekonomika_fih" target="_blank">Více informací</a></p>
 </div>
@@ -87,7 +81,7 @@ options: [] #noheader, wide, noheader (, nopic)
 </div>
 <div class="slib">
 <h4 style="color: red;">1,1 miliardy</h4>
-<p><b>výhodnější hypotéky pro lidi do 36 let</b></p>
+<p><b>na výhodnější hypotéky</b></p>
 <p class="detail">Výhodnější státní hypotéky až na dva miliony korun chce vláda Andreje Babiše nabídnout mladým párům do 36 let.</p>
 <p><a href="https://ekonomika.idnes.cz/hypoteka-pujcka-ministerstvo-pro-mistni-rozvoj-mlade-rodiny-pary-byt-dum-156-/ekonomika.aspx?c=A180312_202119_ekonomika_amu" target="_blank">Více informací</a></p>
 </div>
@@ -106,7 +100,7 @@ options: [] #noheader, wide, noheader (, nopic)
 <div class="slib">
 <h4 style="color: red;">350 milionů</h4>
 <p><b>na demolici zchátralých objektů v Libereckém kraji</b></p>
-<p class="detail">Během výjezdu vlády na Liberecko Babiš podle ministryně v demisi Kláry Dostálové přislíbil jejímu resortu navýšení dotačních programů a mimo jiné i 350 milionů na demolice zchátralých objektů například v bývalém vojenském Újezdě Ralsko. Uvedla to na svém twitteru.</p>
+<p class="detail">Během výjezdu vlády na Liberecko Babiš podle ministryně v demisi Kláry Dostálové přislíbil jejímu resortu navýšení dotačních programů a mimo jiné i 350 milionů na demolici zchátralých objektů například v bývalém vojenském Újezdě Ralsko. Uvedla to na svém twitteru.</p>
 <p><a href="https://twitter.com/DostalovaK/status/973489157120151552" target="_blank">Více informací</a></p>
 </div>
 <div class="slib">
@@ -135,8 +129,8 @@ options: [] #noheader, wide, noheader (, nopic)
 </div>
 <div class="slib">
 <h4 style="color: red;">25 milionů</h4>
-<p><b>magnetická rezonance pro Kroměřížskou nemocnici</b></p>
-<p class="detail">Miliony na novou rezonanci přislíbil Babiše během návštěvy Kroměřížské nemocnice.</p>
+<p><b>pro Kroměřížskou nemocnici</b></p>
+<p class="detail">Miliony na novou magnetickou rezonanci přislíbil Babiš během návštěvy Kroměřížské nemocnice.</p>
 <p><a href="https://www.psp.cz/eknih/2017ps/stenprot/012schuz/s012099.htm#r8" target="_blank">Více informací</a></p>
 </div>
 <div class="slib">
@@ -147,7 +141,7 @@ options: [] #noheader, wide, noheader (, nopic)
 </div>
 <div class="slib">
 <h4 style="color: red;">blíže neurčená částka</h4>
-<p><b>investiční pobídka pro BMW</b></p>
+<p><b>pro BMW</b></p>
 <p class="detail">BMW zamýšlí u Sokolova na Karlovarsku vybudovat zkušební polygon pro autonomní vozy za více než 6 miliard korun, Babiš během návštěvy Karlovarska uvedl, že bude chtít po automobilce závazek vytvoření pracovních míst pro místní. O podobě investiční pobídky by mělo být podle něho jasno do konce června.</p>
 <p><a href="http://www.ceskenoviny.cz/zpravy/stat-bude-chtit-po-bmw-zavazek-prace-pro-mistni/1609988" target="_blank">Více informací</a></p>
 </div>
