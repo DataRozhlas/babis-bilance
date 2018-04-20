@@ -1,4 +1,4 @@
-title: "Babišova vláda 131 dnů bez důvěry: sliby, personální změny i nalezené miliardy. Jaké má kabinet výsledky?"
+title: "Vláda 131 dnů bez důvěry<br><span style='font-size: 65%;'>Babišovy sliby, personální změny i nalezené miliardy. Jaké má kabinet výsledky?</span>"
 perex: "Balík slibů v objemu bezmála 80 miliard korun, které od svého jmenování zformulovala vláda Andreje Babiše. A nejen to. Jednobarevný kabinet provázejí také výrazné personální změny, výjezdy do krajů či časný ranní budíček na zasedání. Jak se ale premiérovi a ministrům, kteří vládnou už 131 dnů bez důvěry, vlastně daří? Server iROZHLAS.cz připravil velký přehled."
 published: "23. dubna 2018"
 # autoři se zadávají až v redakčním systému
@@ -8,10 +8,6 @@ styles: []
 libraries: [highcharts] #jquery, jquery-csv, d3, datatables
 options: [] #noheader, wide, noheader (, nopic)
 ---
-
-Bez důvěry vládne kabinet Andreje Babiše už řadu měsíců, přesně 131 dnů od jmenování prezidentem Milošem Zemanem. Jak na tom byli jeho předchůdci? Třeba druhá vláda Mirka Topolánka vláda v demisi zhruba 127, jednobarevný kabinet hnutí ANO ji tak minulý týden překonal. Rekordmanem je však v tomto ohledu zatím úřednická vláda Jiřího Rusnoka. Podívejte se v následujícím přehledu:
-
-<div id="chart"></div>
 
 „Já jsem toho moc neslíbil. My chodíme a sepisujeme investiční záměr této země. Nikdo to neudělal,“ [řekl na plénu sněmovny během interpelací v polovině dubna](https://www.psp.cz/eknih/2017ps/stenprot/012schuz/s012099.htm#r8) premiér v demisi a šéf hnutí ANO Andrej Babiš. Server iROZHLAS.cz proto všechny jeho sliby dohledal a spočítal. Výsledek? Jde o balík v objemu bezmála 80 miliard korun.
 
@@ -25,7 +21,12 @@ Veškeré sliby vlády Andreje Babiše najdete v následujícím přehledu, jde 
 
 ## Balík slibů (grafika)
 
-Kabinet Andreje Babiše také provází výrazné personální změny - za jeho vlády skončila desítka vysokých manažerů státních institucí. Z čela České pošty odešel Martin Elkán, skončila i dvojice ředitelů nemocnic Svatopluk Němeček nebo Andrea Vrbovská.
+## 131 dnů bez důvěry
+Bez důvěry vládne kabinet Andreje Babiše už řadu měsíců, přesně 131 dnů od jmenování prezidentem Milošem Zemanem. Jak na tom byli jeho předchůdci? Třeba druhá vláda Mirka Topolánka vláda v demisi zhruba 127, jednobarevný kabinet hnutí ANO ji tak minulý týden překonal. Rekordmanem je však v tomto ohledu zatím úřednická vláda Jiřího Rusnoka. Podívejte se v následujícím přehledu:
+
+<div id="chart"></div>
+
+Kabinet Andreje Babiše přitom provází výrazné personální změny - za jeho vlády skončila desítka vysokých manažerů státních institucí. Z čela České pošty odešel Martin Elkán, skončila i dvojice ředitelů nemocnic Svatopluk Němeček nebo Andrea Vrbovská.
 
 Po prověrce Nejvyššího kontrolního úřadu na post rezignovala také ředitelka Státního zdravotního ústavu Jitka Sosnovcová. Z „osobních důvodů“ rezignoval i šéf Správy železniční dopravní cesty Pavel Surý, ten však odmítá, že by jeho rozhodnutí souviselo s nástupem nového kabinetu. Přesouvá se současně na jinou pozici v rámci organizace ([více o personálních změnách čtěte ZDE](https://www.irozhlas.cz/zpravy-domov/vlada-andrej-babis-odvolani-reditele_1802231532_ako)).
 
