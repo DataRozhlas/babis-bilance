@@ -5,7 +5,7 @@ published: "23. dubna 2018"
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/profimedia-036841440_180420-115355_kno.jpg?itok=A9XLsESk
 coverimg_note: "Foto Profimedia"
 styles: ["https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css", "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.min.css"]
-libraries: [highcharts, jquery, "http://code.jquery.com/jquery-migrate-1.2.1.min.js", "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"] #jquery, jquery-csv, d3, datatables
+libraries: [highcharts, jquery, "http://code.jquery.com/jquery-migrate-1.2.1.min.js", "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js", "https://code.highcharts.com/modules/annotations.js"] #jquery, jquery-csv, d3, datatables
 options: [] #noheader, wide, noheader (, nopic)
 ---
 
@@ -438,6 +438,10 @@ Vláda navíc krátce po svém jmenování loni v prosinci připravila tzv. syst
 
 Opozice v souvislosti se změnami mluvila o čistkách a kritizovala jejich účelovost. Babiš to však odmítl, naopak hovořil o racionalizaci a úsporách díky zrušení zbytečných míst. „Usilujeme o efektivní stát,“ [komentoval to](https://www.irozhlas.cz/zpravy-domov/na-ministerstvech-se-menily-a-rusily-stovky-mist-usilujeme-o-efektivni-stat-rika_1801110600_dp) už dříve v sms pro Radiožurnál. Aktuálně Babiš personální změny nechtěl komentovat, na dotaz serveru iROZHLAS.cz se nevyjádřil.
 
+## 498 hlasování ve sněmovně
 
+Hnutí ANO [obnovilo jednání](https://www.irozhlas.cz/zpravy-domov/jan-hamacek-cssd-andrej-babis-ano-vlada_1804201731_ako) se sociálními demokraty a mnohé nasvědčuje tomu, že s nimi bude vládnout. Statistická [analýza dosavadních pěti stovek hlasování](https://www.irozhlas.cz/zpravy-domov/hlasovani-poslanci-koalice-vlada-snemovna-ano-cssd-kscm-spd_1804130605_pek) v poslanecké sněmovně však ukazuje, že častěji než s ČSSD bývají poslanci vládního hnutí ve shodě s komunisty. Ostatní strany vůči ANO bývají v opozici, nejvýrazněji ODS, TOP 09 a STAN.
 
-
+<wide>
+<div id="container"></div>
+</wide>
