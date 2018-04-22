@@ -1,5 +1,5 @@
 title: "Vláda 131 dnů bez důvěry<br><span style='font-size: 65%;'>Babišovy sliby, personální změny i nalezené miliardy. Jaké má kabinet výsledky?</span>"
-perex: "Balík slibů v objemu bezmála 80 miliard korun, které od svého jmenování zformulovala vláda Andreje Babiše. A nejen to. Jednobarevný kabinet provázejí také výrazné personální změny, výjezdy do krajů či časný ranní budíček na zasedání. Jak se ale premiérovi a ministrům, kteří vládnou už 131 dnů bez důvěry, vlastně daří? Server iROZHLAS.cz připravil velký přehled."
+perex: "Balík slibů v objemu bezmála 80 miliard korun, které od svého jmenování zformulovala vláda Andreje Babiše. A nejen to. Jednobarevný kabinet provázejí také výrazné personální změny, výjezdy do krajů či časný ranní budíček na zasedání. Jak se ale premiérovi a ministrům, kteří vládnou bez důvěry už 131 dnů, vlastně daří? Server iROZHLAS.cz připravil velký přehled."
 published: "23. dubna 2018"
 # autoři se zadávají až v redakčním systému
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/profimedia-036841440_180420-115355_kno.jpg?itok=A9XLsESk
@@ -16,7 +16,7 @@ options: [] #noheader, wide, noheader (, nopic)
 <div class="slib">
 <h4 style="color: red;">27 miliard</h4>
 <p><b>na snížení daní</b></p>
-<p class="detail">Resort Aleny Schillerové (ANO) navrhuje v rámci daňového balíčku zrušit superhrubou mzdu a mírně snížit daně, živnostníkům pak ulevit na pojistném. Státní rozpočet mají novinky vyjít na 27 miliard korun, po započtení změn v oblasti DPH a dalších nových příjmů by však reálný dopad na rozpočet měl být 22,3 miliard korun.</p>
+<p class="detail">Resort Aleny Schillerové (ANO) navrhuje v rámci daňového balíčku zrušit superhrubou mzdu a mírně snížit daně, živnostníkům pak ulevit na pojistném. Státní rozpočet mají novinky vyjít na 27 miliard korun, po započtení změn v oblasti DPH a dalších nových příjmů by však reálný dopad na rozpočet měl být 22,3 miliardy korun.</p>
 <p><a href="https://ekonomika.idnes.cz/ministerstvo-financi-dan-z-prijmu-pojistne-superhruba-mzda-danovy-balicek-1ub-/ekonomika.aspx?c=A180211_205250_ekonomika_ekl" target="_blank">Více informací</a></p>
 </div>
 <div class="slib">
@@ -153,11 +153,13 @@ options: [] #noheader, wide, noheader (, nopic)
 </div>
 </div>
 
-U některých slibů přitom chybí „nacenění“, jelikož odhad částky není zatím k dispozici. Redakce do seznamu také nezapočítala příslib 11,6 miliard korun pro české zdravotnictví, který Babiš formuloval na svém facebooku, jelikož není přesně jasné, jak byl zamýšlen. Pokud by se však jednalo o zcela novou investici, Babišům závěrečný účet příslibů by skočil na více než 90 miliard korun.
+U některých slibů přitom chybí „nacenění“, jelikož odhad částky není zatím k dispozici. Redakce do seznamu také nezapočítala příslib 11,6 miliardy korun pro české zdravotnictví, který Babiš formuloval na svém facebooku, jelikož není přesně jasné, jak byl zamýšlen. Pokud by se však jednalo o zcela novou investici, Babišům závěrečný účet příslibů by skočil na více než 90 miliard korun.
 
-<right><h4>Nalezené miliardy</h4>Nejdříve to bylo přes osm miliard korun „úspor“ ministerstev, ze kterých plánuje Babišova vláda financovat opravu silnic nižších tříd. Napříč resorty kabinet vyčlenil pro letošní rok také peníze na slevu na jízdné, která začne platit v červnu. Nakonec premiér v demisi oznámil, že jeho vláda „našla“ v rozpočtu ministerstev i dalších státních institucí ušetřených bezmála 170 miliard korun v podobě nároků z nespotřebovaných výdajů. Jde však o fiktivní úsporu, která nemá finanční krytí.</right>
+<right><h4>Nalezené miliardy</h4>Nejdříve to bylo přes osm miliard korun „úspor“ ministerstev, ze kterých plánuje Babišova vláda financovat opravu silnic nižších tříd. Napříč resorty kabinet vyčlenil pro letošní rok také peníze na slevu na jízdné, která začne platit v červnu. Nakonec premiér v demisi oznámil, že jeho vláda „našla“ v rozpočtu ministerstev i dalších státních institucí ušetřených bezmála 170 miliard korun v podobě nároků z nespotřebovaných výdajů. Jde však o fiktivní úsporu, která nemá finanční krytí.
 
-Třeba během výjezdu vlády v Libereckém kraji slíbil Babiš v Semilech novou mateřskou školku, v průběhu návštěvy Zlínska zas Kroměřížské nemocnici novou magnetickou rezonanci. Štědrý byl Babiš i v Brně. „Já si myslím, že si tu porodnici v Brně za dvě miliardy lidé zaslouží. I možná nový centrální příjem v IKEMu nebo v Krči, všude,“ [prohlásil dále před poslanci](https://www.psp.cz/eknih/2017ps/stenprot/012schuz/s012099.htm#r8).
+[Více informací](https://www.irozhlas.cz/zpravy-domov/andrej-babis-usetrene-penize-ministerstva-170-miliard-statni-rozpocet_1804101430_hm)</right>
+
+Třeba během výjezdu vlády v Libereckém kraji slíbil Babiš v Semilech novou mateřskou školku, v průběhu návštěvy Zlínska zase Kroměřížské nemocnici novou magnetickou rezonanci. Štědrý byl Babiš i v Brně. „Já si myslím, že si tu porodnici v Brně za dvě miliardy lidé zaslouží. I možná nový centrální příjem v IKEMu nebo v Krči, všude,“ [prohlásil dále před poslanci](https://www.psp.cz/eknih/2017ps/stenprot/012schuz/s012099.htm#r8).
 
 Další sliby přitom jednobarevný kabinet bez důvěry už realizuje – odsouhlasil třeba slevu na jízdném pro studenty a seniory, která vyjde státní kasu ročně na téměř 6 miliard korun. Polepší si také senioři, kterým vláda navýší o několik stovek korun důchod. A účet pro veřejný rozpočet? Ročně 14,5 miliardy korun.
 
@@ -168,7 +170,7 @@ Bez důvěry vládne kabinet Andreje Babiše už řadu měsíců, přesně 131 d
 <div id="chart"></div>
 
 ## 12 manažerů skončilo ve vedení klíčových institucí
-Kabinet Andreje Babiše přitom provází výrazné personální změny - za jeho vlády skončila desítka vysokých manažerů státních institucí. Z čela České pošty odešel Martin Elkán, skončila i dvojice ředitelů nemocnic Svatopluk Němeček nebo Andrea Vrbovská.
+Kabinet Andreje Babiše přitom provázejí výrazné personální změny - za jeho vlády skončila desítka vysokých manažerů státních institucí. Z čela České pošty odešel Martin Elkán, skončila i dvojice ředitelů nemocnic Svatopluk Němeček nebo Andrea Vrbovská.
 <wide>
 <div class="slider2">
 <div class="slib">
@@ -436,11 +438,11 @@ Vláda navíc krátce po svém jmenování loni v prosinci připravila tzv. syst
 
 </wide>
 
-Opozice v souvislosti se změnami mluvila o čistkách a kritizovala jejich účelovost. Babiš to však odmítl, naopak hovořil o racionalizaci a úsporách díky zrušení zbytečných míst. „Usilujeme o efektivní stát,“ [komentoval to](https://www.irozhlas.cz/zpravy-domov/na-ministerstvech-se-menily-a-rusily-stovky-mist-usilujeme-o-efektivni-stat-rika_1801110600_dp) už dříve v sms pro Radiožurnál. Aktuálně Babiš personální změny nechtěl komentovat, na dotaz serveru iROZHLAS.cz se nevyjádřil.
+Opozice v souvislosti se změnami mluvila o čistkách a kritizovala jejich účelovost. Babiš to však odmítl, naopak hovořil o racionalizaci a úsporách díky zrušení zbytečných míst. „Usilujeme o efektivní stát,“ [komentoval to](https://www.irozhlas.cz/zpravy-domov/na-ministerstvech-se-menily-a-rusily-stovky-mist-usilujeme-o-efektivni-stat-rika_1801110600_dp) už dříve v sms pro Radiožurnál. Aktuálně Babiš personální změny nechtěl komentovat, na dotaz serveru iROZHLAS.cz nereagoval.
 
 ## 498 hlasování ve sněmovně
 
-Hnutí ANO [obnovilo jednání](https://www.irozhlas.cz/zpravy-domov/jan-hamacek-cssd-andrej-babis-ano-vlada_1804201731_ako) se sociálními demokraty a mnohé nasvědčuje tomu, že s nimi bude vládnout. Statistická [analýza dosavadních pěti stovek hlasování](https://www.irozhlas.cz/zpravy-domov/hlasovani-poslanci-koalice-vlada-snemovna-ano-cssd-kscm-spd_1804130605_pek) v poslanecké sněmovně však ukazuje, že častěji než s ČSSD bývají poslanci vládního hnutí ve shodě s komunisty. Ostatní strany vůči ANO bývají v opozici, nejvýrazněji ODS, TOP 09 a STAN.
+Hnutí ANO [obnovilo jednání](https://www.irozhlas.cz/zpravy-domov/jan-hamacek-cssd-andrej-babis-ano-vlada_1804201731_ako) se sociálními demokraty a mnohé nasvědčuje tomu, že s nimi bude vládnout – místopředseda hnutí Jaroslav [Faltýnek v neděli řekl](https://www.irozhlas.cz/zpravy-domov/jaroslav-faltynek-hnuti-ano-koalicni-smlouva_1804221219_pj), že text koaliční smlouvy by chtěl mít hotový během dvou týdnů. Statistická [analýza dosavadních pěti stovek hlasování](https://www.irozhlas.cz/zpravy-domov/hlasovani-poslanci-koalice-vlada-snemovna-ano-cssd-kscm-spd_1804130605_pek) v poslanecké sněmovně však ukazuje, že častěji než s ČSSD bývají poslanci vládního hnutí ve shodě s komunisty. Ostatní strany vůči ANO bývají v opozici, nejvýrazněji ODS, TOP 09 a STAN.
 
 <wide>
 <div id="container"></div>
