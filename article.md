@@ -21,7 +21,7 @@ options: [] #noheader, wide, noheader (, nopic)
 </div>
 <div class="slib">
 <h4 style="color: red;">14,5 miliardy</h4>
-<p><b>navýšení důchodů seniorům</b></p>
+<p><b>na navýšení důchodů seniorům</b></p>
 <p class="detail">Navýšení důchodů schválila vláda na konci února, změnu musí ještě schválit Parlament.</p>
 <p><a href="https://www.irozhlas.cz/ekonomika/seniori-nad-85-let-duchod_1802270934_pj" target="_blank">Více informací</a></p>
 </div>
@@ -106,7 +106,7 @@ options: [] #noheader, wide, noheader (, nopic)
 <div class="slib">
 <h4 style="color: red;">90 milionů</h4>
 <p><b>na mateřskou školu v Semilech</b></p>
-<p class="detail">„Slíbil jsem tu školku v Semilech jeho starostce. Kam děti chodí, to jsou boudy. To není mateřská školka. Ona má krásný projekt za 90 mil., tak jsem jí slíbil schůzku,“ prohlásil na plénu sněmovny během interpelací.</p>
+<p class="detail">„Slíbil jsem tu školku v Semilech jeho starostce. Kam děti chodí, to jsou boudy. To není mateřská škola. Ona má krásný projekt za 90 milionů, tak jsem jí slíbil schůzku,“ prohlásil na plénu sněmovny během interpelací.</p>
 <p><a href="https://www.psp.cz/eknih/2017ps/stenprot/012schuz/s012099.htm#r8" target="_blank">Více informací</a></p>
 </div>
 <div class="slib">
@@ -153,24 +153,22 @@ options: [] #noheader, wide, noheader (, nopic)
 </div>
 </div>
 
-U některých slibů přitom chybí „nacenění“, jelikož odhad částky není zatím k dispozici. Redakce do seznamu také nezapočítala příslib 11,6 miliardy korun pro české zdravotnictví, který Babiš formuloval na svém facebooku, jelikož není přesně jasné, jak byl zamýšlen. Pokud by se však jednalo o zcela novou investici, Babišům závěrečný účet příslibů by skočil na více než 90 miliard korun.
+U některých slibů přitom chybí „nacenění“, jelikož odhad částky není zatím k dispozici. Redakce do seznamu také nezapočítala příslib 11,6 miliardy korun pro české zdravotnictví, který Babiš formuloval na svém facebooku, jelikož není přesně jasné, jak byl zamýšlen. Pokud by se však jednalo o zcela novou investici, Babišův závěrečný účet příslibů by skočil na více než 90 miliard korun.
 
-<right><h4>Nalezené miliardy</h4>Nejdříve to bylo přes osm miliard korun „úspor“ ministerstev, ze kterých plánuje Babišova vláda financovat opravu silnic nižších tříd. Napříč resorty kabinet vyčlenil pro letošní rok také peníze na slevu na jízdné, která začne platit v červnu. Nakonec premiér v demisi oznámil, že jeho vláda „našla“ v rozpočtu ministerstev i dalších státních institucí ušetřených bezmála 170 miliard korun v podobě nároků z nespotřebovaných výdajů. Jde však o fiktivní úsporu, která nemá finanční krytí.
+<right><h4>Nalezené miliardy</h4>Nejdříve to bylo přes osm miliard korun „úspor“ ministerstev, ze kterých plánuje Babišova vláda financovat opravu silnic nižších tříd. Napříč resorty kabinet vyčlenil pro letošní rok také peníze na slevu na jízdné, která začne platit v červnu. Nakonec premiér v demisi oznámil, že jeho vláda „našla“ v rozpočtu ministerstev i dalších státních institucí ušetřených bezmála 170 miliard korun v podobě nároků z nespotřebovaných výdajů. Jde však o fiktivní úsporu, která nemá finanční krytí. <a href="https://www.irozhlas.cz/zpravy-domov/andrej-babis-usetrene-penize-ministerstva-170-miliard-statni-rozpocet_1804101430_hm">Více informací</a></right>
 
-[Více informací](https://www.irozhlas.cz/zpravy-domov/andrej-babis-usetrene-penize-ministerstva-170-miliard-statni-rozpocet_1804101430_hm)</right>
-
-Třeba během výjezdu vlády v Libereckém kraji slíbil Babiš v Semilech novou mateřskou školku, v průběhu návštěvy Zlínska zase Kroměřížské nemocnici novou magnetickou rezonanci. Štědrý byl Babiš i v Brně. „Já si myslím, že si tu porodnici v Brně za dvě miliardy lidé zaslouží. I možná nový centrální příjem v IKEMu nebo v Krči, všude,“ [prohlásil dále před poslanci](https://www.psp.cz/eknih/2017ps/stenprot/012schuz/s012099.htm#r8).
+Třeba během výjezdu vlády v Libereckém kraji slíbil Babiš v Semilech novou mateřskou školu, v průběhu návštěvy Zlínska zase Kroměřížské nemocnici novou magnetickou rezonanci. Štědrý byl Babiš i v Brně. „Já si myslím, že si tu porodnici v Brně za dvě miliardy lidé zaslouží. I možná nový centrální příjem v IKEMu nebo v Krči, všude,“ [prohlásil dále před poslanci](https://www.psp.cz/eknih/2017ps/stenprot/012schuz/s012099.htm#r8).
 
 Další sliby přitom jednobarevný kabinet bez důvěry už realizuje – odsouhlasil třeba slevu na jízdném pro studenty a seniory, která vyjde státní kasu ročně na téměř 6 miliard korun. Polepší si také senioři, kterým vláda navýší o několik stovek korun důchod. A účet pro veřejný rozpočet? Ročně 14,5 miliardy korun.
 
 
 ## 131 dnů bez důvěry
-Bez důvěry vládne kabinet Andreje Babiše už řadu měsíců, přesně 131 dnů od jmenování prezidentem Milošem Zemanem. Jak na tom byli jeho předchůdci? Třeba druhá vláda Mirka Topolánka vláda v demisi zhruba 127, jednobarevný kabinet hnutí ANO ji tak minulý týden překonal. Rekordmanem je však v tomto ohledu zatím úřednická vláda Jiřího Rusnoka. Podívejte se v následujícím přehledu:
+Bez důvěry vládne kabinet Andreje Babiše už řadu měsíců, přesně 131 dnů od jmenování prezidentem Milošem Zemanem. Jak na tom byli jeho předchůdci? Třeba druhá vláda Mirka Topolánka vládla v demisi zhruba 127 dní, jednobarevný kabinet hnutí ANO ji tak minulý týden překonal. Rekordmanem je však v tomto ohledu zatím úřednická vláda Jiřího Rusnoka. Podívejte se v následujícím přehledu:
 
 <div id="chart"></div>
 
 ## 12 manažerů skončilo ve vedení klíčových institucí
-Kabinet Andreje Babiše přitom provázejí výrazné personální změny - za jeho vlády skončila desítka vysokých manažerů státních institucí. Z čela České pošty odešel Martin Elkán, skončila i dvojice ředitelů nemocnic Svatopluk Němeček nebo Andrea Vrbovská.
+Kabinet Andreje Babiše přitom provázejí výrazné personální změny – za jeho vlády skončilo dvanáct vysokých manažerů státních institucí. Z čela České pošty odešel Martin Elkán, skončila i dvojice ředitelů nemocnic Svatopluk Němeček a Andrea Vrbovská.
 <wide>
 <div class="slider2">
 <div class="slib">
@@ -183,7 +181,7 @@ Kabinet Andreje Babiše přitom provázejí výrazné personální změny - za j
 <div class="slib">
 <h4 style="color: red;">Karel Kučera</h4>
 <p style="height:5ex;"><b>ředitel CzechInvestu</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/kucera.jpg">
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/kucera2.jpg">
 <p class="detail">Vládní agenturu pro podporu podnikání a investic vedl Kučera čtyři roky, podle ministra v demisi Tomáše Hünera (za ANO) ale svými nedávnými rozhodnutími destabilizoval její chod.</p>
 <p><a href="https://www.irozhlas.cz/ekonomika/ministr-prumyslu-tomas-huner-czechinvest-karel-kucera_1801091734_ako" target="_blank">Více informací</a></p>
 </div>
@@ -276,9 +274,9 @@ Po prověrce Nejvyššího kontrolního úřadu na post rezignovala také ředit
 
 Svůj úmysl odejít z vedení Státního pozemkového úřadu oznámila také Svatava Maradová. [Zdůvodnila to tehdy](https://www.irozhlas.cz/zpravy-domov/reditelka-statniho-pozemkoveho-uradu-maradova-oznamila-rezignaci-prospeje_1803201102_bar) mimo jiné snahou usnadnit vyjednávání o vládě.
 
-Premiér v demisi Babiš žádal také konec šéfa Generální inspekce bezpečnostních sborů Michala Murína, nemá k němu prý důvěru a zpochybnil i hospodaření inspekce. [Murín nakonec oznámil, že skončí ke konci dubna](https://www.irozhlas.cz/zpravy-domov/murin-skonci-v-cele-gibs_1804170928_miz), oficiálně ze zdravotních důvodů.
+Premiér v demisi Babiš žádal také konec šéfa Michala Murína ve vedení Generální inspekce bezpečnostních sborů, nemá k němu prý důvěru a zpochybnil i hospodaření inspekce. [Murín nakonec oznámil, že skončí ke konci dubna](https://www.irozhlas.cz/zpravy-domov/murin-skonci-v-cele-gibs_1804170928_miz), oficiálně ze zdravotních důvodů.
 
-Na návrh ministryně v demisi Karly Šlechtové (za ANO) schválila vláda také výměnu v čele armády - novým náčelníkem generálního štábu se místo Josefa Bečváře stane Aleš Opata.
+Na návrh ministryně v demisi Karly Šlechtové (za ANO) schválila vláda také výměnu v čele armády – novým náčelníkem generálního štábu se místo Josefa Bečváře stane Aleš Opata.
 
 ## 26 náměstků odešlo z ministerstev
 
@@ -290,29 +288,21 @@ Vláda navíc krátce po svém jmenování loni v prosinci připravila tzv. syst
 <h4 style="color: red;">Ondřej Závodský (KDU-ČSL)</h4>
 <p style="height:5ex;"><b>ministerstvo financí</b></p>
 <img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/zavodsky.jpg">
-<p class="detail">Závodský považuje své odvolání za účelové, důvodem bylo podle něho i to, že zahájil prověrku hospodaření Agrofertu na státních pozemcích.</p>
-<p><a href="https://www.irozhlas.cz/zpravy-domov/vlada-andrej-babis-zaloba-propousteni-exnamestci_1802272257_ako" target="_blank">Více informací</a></p>
 </div>
 <div class="slib">
 <h4 style="color: red;">Petr Hulínský (ČSSD)</h4>
 <p style="height:5ex;"><b>ministerstvo vnitra</b></p>
 <img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/hulinsky.jpg">
-<p class="detail">Hulínský působil na vnitru jako politický náměstek ČSSD.</p>
-<p><a href="https://www.irozhlas.cz/zpravy-domov/ministerstvo-vnitra-lubomir-metnar-namestek_1712211708_pj" target="_blank">Více informací</a></p>
 </div>
 <div class="slib">
 <h4 style="color: red;">Monika Pálková (KDU-ČSL)</h4>
 <p style="height:5ex;"><b>ministerstvo vnitra</b></p>
 <img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/palkova.jpg">
-<p class="detail">Ministr v demisi Lubomír Metnar (za ANO) chtěl zajistit efektivnější chod úřadu, sekci Pálkové proto zrušil.</p>
-<p><a href="https://www.irozhlas.cz/zpravy-domov/ministerstvo-vnitra-lubomir-metnar-namestek_1712211708_pj" target="_blank">Více informací</a></p>
 </div>
 <div class="slib">
 <h4 style="color: red;">Jiří Jirsa (KDU-ČSL)</h4>
 <p style="height:5ex;"><b>ministerstvo zemědělství</b></p>
 <img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/jirsa.jpg">
-<p class="detail">Jirsa na ministerstvu zemědělství coby první náměstek dohlížel na veřejné zakázky, legislativu a vnitřní provoz úřadu, jeho místo ale nový ministr za hnutí ANO Jiří Milek zrušil. Jirsa přesto na ministerstvu zůstal, ale na nižší pozici.</p>
-<p><a href="https://www.irozhlas.cz/zpravy-domov/ministerstvo-vnitra-lubomir-metnar-namestek_1712211708_pj" target="_blank">Více informací</a></p>
 </div>
 <div class="slib">
 <h4 style="color: red;">Petr Hejduk</h4>
@@ -333,19 +323,16 @@ Vláda navíc krátce po svém jmenování loni v prosinci připravila tzv. syst
 <h4 style="color: red;">Jiří Šír</h4>
 <p style="height:5ex;"><b>ministerstvo zemědělství</b></p>
 <img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/blahut.png">
-<p class="detail">Šír skončil ve funkci náměstka na ministerstvu zemědělství po systematizaci schválené vládou v demisi, jeho místo bylo zrušeno od dubna. Dál však na ministerstvu pokračuje jako ředitel jednoho z odborů.</p>
 </div>
 <div class="slib">
 <h4 style="color: red;">Patrik Košický</h4>
 <p style="height:5ex;"><b>ministerstvo kultury</b></p>
 <img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/kosicky.jpg">
-<p class="detail">Košický sice přišel o post náměstka na resortu kultury, místo toho se ale stal šéfem kabinetu ministra.</p>
 </div>
 <div class="slib">
 <h4 style="color: red;">Robert Baxa</h4>
 <p style="height:5ex;"><b>ministerstvo práce a sociálních věcí</b></p>
 <img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/baxa.jpg">
-<p><a href="https://www.irozhlas.cz/zpravy-domov/babis-vlada-pocita-se-zrusenim-73-mist-na-uradu-vlady-a-ministerstvech_1712221141_dp" target="_blank">Více informací</a></p>
 </div>
 <div class="slib">
 <h4 style="color: red;">Gabriela Nekolová (ČSSD)</h4>
@@ -366,43 +353,36 @@ Vláda navíc krátce po svém jmenování loni v prosinci připravila tzv. syst
 <h4 style="color: red;">Kamil Rudolecký (ČSSD)</h4>
 <p style="height:5ex;"><b>ministerstvo dopravy</b></p>
 <img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/blahut.png">
-<p class="detail">Rudolecký z ČSSD na ministerstvu skončil po nové systemizaci schválené vládou. Současně tak přišel i o post místopředsedy řídicího výboru Českých drah, nahradil ho současný náměstek na dopravě Ladislav Němec.</p>
 </div>
 <div class="slib">
 <h4 style="color: red;">Petr Pavlík (ČSSD)</h4>
 <p style="height:5ex;"><b>ministerstvo školství</b></p>
 <img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/pavlik.jpg">
-<p class="detail">Z ministerstva odešli političtí náměstci Petr Pavlík (ČSSD) a Jaroslav Fidrmuc (KDU-ČSL).</p>
 </div>
 <div class="slib">
 <h4 style="color: red;">Jaroslav Fidrmuc (KDU-ČSL)</h4>
 <p style="height:5ex;"><b>ministerstvo školství</b></p>
 <img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/fidrmuc.jpg">
-<p class="detail">Z ministerstva odešli političtí náměstci Petr Pavlík (ČSSD) a Jaroslav Fidrmuc (KDU-ČSL).</p>
 </div>
 <div class="slib">
 <h4 style="color: red;">Lukáš Kaucký (ČSSD)</h4>
 <p style="height:5ex;"><b>ministerstvo zahraničních věcí</b></p>
 <img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/kaucky.jpg">
-<p class="detail">Kaucký na resortu působil jako politický náměstek, jejich místa ale byla zrušena.</p>
 </div>
 <div class="slib">
 <h4 style="color: red;">Václav Kolaja</h4>
 <p style="height:5ex;"><b>ministerstvo zahraničních věcí</b></p>
 <img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/kolaja.jpg">
-<p class="detail">Kolaja na resortu působil jako politický náměstek, jejich místo ale byla zrušeno. Nově se má stát českým velvyslancem ve Vatikánu.</p>
 </div>
 <div class="slib">
 <h4 style="color: red;">Lenka Teska Arnoštová (ČSSD)</h4>
 <p style="height:5ex;"><b>ministerstvo zdravotnictví</b></p>
 <img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/arnostova.jpg">
-<p class="detail">Teska Arnoštová na funkci rezignovala, novou politickou náměstkyní ministra se stala Alena Šteflová.</p>
 </div>
 <div class="slib">
 <h4 style="color: red;">Kamal Farhan (ANO)</h4>
 <p style="height:5ex;"><b>ministerstvo zdravotnictví</b></p>
 <img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/farhan.jpg">
-<p class="detail">Na zdravotnictví skončil Kamal Farhan (ANO), který byl zvolen poslancem. Byl druhým politickým náměstkem.</p>
 </div>
 <div class="slib">
 <h4 style="color: red;">Tom Philipp</h4>
@@ -418,7 +398,6 @@ Vláda navíc krátce po svém jmenování loni v prosinci připravila tzv. syst
 <h4 style="color: red;">Zdeněk Adamec</h4>
 <p style="height:5ex;"><b>ministerstvo zemědělství</b></p>
 <img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/adamec.jpg">
-<p class="detail">Funkci opustil Adamec začátkem roku, od kdy byla platná systematizace schválená vládou.</p>
 </div>
 <div class="slib">
 <h4 style="color: red;">Lenka Kovačovská</h4>
@@ -442,7 +421,7 @@ Opozice v souvislosti se změnami mluvila o čistkách a kritizovala jejich úč
 
 ## 498 hlasování ve sněmovně
 
-Hnutí ANO [obnovilo jednání](https://www.irozhlas.cz/zpravy-domov/jan-hamacek-cssd-andrej-babis-ano-vlada_1804201731_ako) se sociálními demokraty a mnohé nasvědčuje tomu, že s nimi bude vládnout – místopředseda hnutí Jaroslav [Faltýnek v neděli řekl](https://www.irozhlas.cz/zpravy-domov/jaroslav-faltynek-hnuti-ano-koalicni-smlouva_1804221219_pj), že text koaliční smlouvy by chtěl mít hotový během dvou týdnů. Statistická [analýza dosavadních pěti stovek hlasování](https://www.irozhlas.cz/zpravy-domov/hlasovani-poslanci-koalice-vlada-snemovna-ano-cssd-kscm-spd_1804130605_pek) v poslanecké sněmovně však ukazuje, že častěji než s ČSSD bývají poslanci vládního hnutí ve shodě s komunisty. Ostatní strany vůči ANO bývají v opozici, nejvýrazněji ODS, TOP 09 a STAN.
+Hnutí ANO [obnovilo jednání](https://www.irozhlas.cz/zpravy-domov/jan-hamacek-cssd-andrej-babis-ano-vlada_1804201731_ako) se sociálními demokraty a mnohé nasvědčuje tomu, že s nimi bude vládnout – místopředseda hnutí Jaroslav [Faltýnek v neděli řekl](https://www.irozhlas.cz/zpravy-domov/jaroslav-faltynek-hnuti-ano-koalicni-smlouva_1804221219_pj), že text koaliční smlouvy by chtěl mít hotový během dvou týdnů. Statistická [analýza dosavadních pěti stovek hlasování](https://www.irozhlas.cz/zpravy-domov/hlasovani-poslanci-koalice-vlada-snemovna-ano-cssd-kscm-spd_1804130605_pek) v Poslanecké sněmovně však ukazuje, že častěji než s ČSSD bývají poslanci vládního hnutí ve shodě s komunisty. Ostatní strany vůči ANO bývají v opozici, nejvýrazněji ODS, TOP 09 a STAN.
 
 <wide>
 <div id="container"></div>
