@@ -5,7 +5,7 @@ published: "23. dubna 2018"
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/profimedia-036841440_180420-115355_kno.jpg?itok=A9XLsESk
 coverimg_note: "Foto Profimedia"
 styles: ["https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css", "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.min.css"]
-libraries: [highcharts, jquery, "http://code.jquery.com/jquery-migrate-1.2.1.min.js", "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js", "https://code.highcharts.com/modules/annotations.js"] #jquery, jquery-csv, d3, datatables
+libraries: [highcharts, jquery, "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js", "https://code.highcharts.com/modules/annotations.js"] #jquery, jquery-csv, d3, datatables
 options: [] #noheader, wide, noheader (, nopic)
 ---
 

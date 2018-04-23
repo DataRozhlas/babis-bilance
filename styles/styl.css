@@ -105,3 +105,15 @@ hr {
        height: 100vh;
 
 }
+
+@media only screen and (max-width: 600px) {
+    .slick-next {
+        right: -15px;
+    }
+    .slick-prev {
+        left: -15px;
+    }
+    .slider1 > .slick-list {
+        max-width: 90vw;
+    }
+}
