@@ -64,8 +64,7 @@ $(document).ready(function(){
 Highcharts.chart('container', {
     chart: {
         type: 'scatter',
-        zoomType: 'xy',
-        height: '100%'
+        zoomType: 'xy'
     },
     title: {
         text: 'Kdo s kým nejčastěji hlasuje v poslanecké sněmovně?'
@@ -132,7 +131,7 @@ Highcharts.chart('container', {
         tickAmount: 5},
         
     yAxis: {
-	   		max: 1,
+	   	max: 1,
         min: -1,
         tickAmount: 5,
         title: {
@@ -171,7 +170,7 @@ Highcharts.chart('container', {
     },
     series: [{
         name: 'ANO',
-        color: 'rgb(38, 16, 96, .5)',
+        color: 'rgba(38, 16, 96, .5)',
         marker: {symbol: 'circle', lineWidth: 0.5},
         data:[{"x":0.621595457,"y":-0.2186112473,"name":"Martin Stropnický"},
 {"x":0.7092842173,"y":-0.155385431,"name":"Josef Hájek"},
@@ -255,7 +254,7 @@ Highcharts.chart('container', {
     
     {
         name: 'ODS',
-        color: 'rgb(0, 68, 148, .5)',
+        color: 'rgba(0, 68, 148, .5)',
         marker: {symbol: 'circle', lineWidth: 0.5},
         data: [{"x":-0.7988112313,"y":0.2160261658,"name":"Marek Benda"},
 {"x":-0.9939220236,"y":0.0612531649,"name":"Miroslava Němcová"},
@@ -286,7 +285,7 @@ Highcharts.chart('container', {
   {
         name: 'Piráti',
         marker: {symbol: 'circle', lineWidth: 0.5},
-        color: 'rgb(0, 0, 0, .5)',
+        color: 'rgba(0, 0, 0, .5)',
         data: [{"x":-0.6064603311,"y":-0.4127868692,"name":"Dana Balcarová"},
 {"x":-0.5941662168,"y":-0.4243535393,"name":"Lukáš Bartoň"},
 {"x":-0.5549450111,"y":-0.4168516494,"name":"Ivan Bartoš"},
@@ -312,7 +311,7 @@ Highcharts.chart('container', {
     },
     {
         name: 'SPD',
-        color: 'rgb(44, 134, 196, .5)',
+        color: 'rgba(44, 134, 196, .5)',
         marker: {symbol: 'circle', lineWidth: 0.5},
         data: [{"x":0.2250511006,"y":0.7852961855,"name":"Radim Fiala"},
 {"x":0.2170987581,"y":0.8081578007,"name":"Tomio Okamura"},
@@ -339,7 +338,7 @@ Highcharts.chart('container', {
     },{
         name: 'ČSSD',
         marker: {symbol: 'circle', lineWidth: 0.5},
-        color: 'rgb(242, 148, 0, .5)',
+        color: 'rgba(242, 148, 0, .5)',
         data: [{"x":-0.3627583604,"y":0.0947804838,"name":"Bohuslav Sobotka"},
 {"x":0.1545420045,"y":-0.1780075265,"name":"Lubomír Zaorálek"},
 {"x":0.0022593562,"y":-0.3192718607,"name":"Jan Hamáček"},
@@ -359,7 +358,7 @@ Highcharts.chart('container', {
     
     {
         name: 'KSČM',
-        color: 'rgb(216,38,28,.5)',
+        color: 'rgba(216,38,28,.5)',
         marker: {symbol: 'circle', lineWidth: 0.5},
         data: [{"x":0.3958492246,"y":-0.0263292964,"name":"Vojtěch Filip"},
 {"x":0.481384362,"y":0.0741397145,"name":"Miroslav Grebeníček"},
@@ -379,7 +378,7 @@ Highcharts.chart('container', {
     },
     {
         name: 'KDU-ČSL',
-        color: 'rgb(249, 218, 35, .5)',
+        color: 'rgba(249, 218, 35, .5)',
         marker: {symbol: 'circle', lineWidth: 0.5},
         data: [{"x":-0.5600140727,"y":-0.3294663035,"name":"Stanislav Juránek"},
 {"x":-0.5260388813,"y":-0.1737286687,"name":"Pavel Bělobrádek"},
@@ -394,7 +393,7 @@ Highcharts.chart('container', {
     },
     {
         name: 'TOP 09',
-        color: 'rgb(153, 51, 153, .5)',
+        color: 'rgba(153, 51, 153, .5)',
         marker: {symbol: 'circle', lineWidth: 0.5},
         data: [{"x":-0.8461715847,"y":0.1161339138,"name":"Miroslav Kalousek"},
 {"x":-0.8281488297,"y":0.1007330812,"name":"Karel Schwarzenberg"},
@@ -406,7 +405,7 @@ Highcharts.chart('container', {
     },
    {
         name: 'STAN',
-        color: 'rgb(182, 201, 50, .5)',
+        color: 'rgba(182, 201, 50, .5)',
         marker: {symbol: 'circle', lineWidth: 0.5},
         data: [{"x":-0.8500789257,"y":0.0200485891,"name":"Jan Farský"},
 {"x":-0.8670276521,"y":0.091951804,"name":"Petr Gazdík"},
