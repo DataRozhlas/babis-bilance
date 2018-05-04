@@ -1,6 +1,6 @@
-title: "Vláda 131 dnů bez důvěry<br><span style='font-size: 65%;'>Babišovy sliby, personální změny i nalezené miliardy. Jaké má kabinet výsledky?</span>"
-perex: "Balík slibů v objemu bezmála 80 miliard korun, které od svého jmenování zformulovala vláda Andreje Babiše. A nejen to. Jednobarevný kabinet provázejí také výrazné personální změny, výjezdy do krajů či časný ranní budíček na zasedání. Jak se ale premiérovi a ministrům, kteří vládnou bez důvěry už 131 dnů, vlastně daří? Server iROZHLAS.cz připravil velký přehled."
-published: "23. dubna 2018"
+title: "Vláda 143 dnů bez důvěry<br><span style='font-size: 65%;'>Babišovy sliby, personální změny i nalezené miliardy. Jaké má kabinet výsledky?</span>"
+perex: "Balík slibů v objemu bezmála 92 miliard korun, které od svého jmenování zformulovala vláda Andreje Babiše. A nejen to. Jednobarevný kabinet provázejí také výrazné personální změny, výjezdy do krajů či časný ranní budíček na zasedání. Jak se ale premiérovi a ministrům, kteří vládnou bez důvěry už několik měsíců, vlastně daří? Server iROZHLAS.cz připravil už dříve velký přehled, nyní přinášíme jeho aktualizovanou verzi."
+published: "23. dubna 2018 | aktualizováno 5. května 2018"
 # autoři se zadávají až v redakčním systému
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/profimedia-036841440_180420-115355_kno.jpg?itok=A9XLsESk
 coverimg_note: "Foto Profimedia"
@@ -9,10 +9,34 @@ libraries: [highcharts, jquery, "https://cdnjs.cloudflare.com/ajax/libs/slick-ca
 options: [] #noheader, wide, noheader (, nopic)
 ---
 
-„Já jsem toho moc neslíbil. My chodíme a sepisujeme investiční záměr této země. Nikdo to neudělal,“ [řekl na plénu sněmovny během interpelací v polovině dubna](https://www.psp.cz/eknih/2017ps/stenprot/012schuz/s012099.htm#r8) premiér v demisi a šéf hnutí ANO Andrej Babiš. Server iROZHLAS.cz proto všechny jeho sliby dohledal a spočítal. Výsledek? Jde o balík v objemu bezmála 80 miliard korun.
+„Já jsem toho moc neslíbil. My chodíme a sepisujeme investiční záměr této země. Nikdo to neudělal,“ [řekl na plénu sněmovny během interpelací v polovině dubna](https://www.psp.cz/eknih/2017ps/stenprot/012schuz/s012099.htm#r8) premiér v demisi a šéf hnutí ANO Andrej Babiš. Server iROZHLAS.cz proto všechny jeho sliby dohledal a spočítal. Výsledek? Jde o balík v objemu bezmála 92 miliard korun.
 
-## 80 miliard: plná nůše slibů
+## 92 miliard: plná nůše slibů
 <div class="slider1">
+<div class="slib">
+<h4 style="color: red;">9 miliard</h4>
+<p><b>pro sport</b></p>
+<p class="detail">Při setkání s účastníky olympijských her v Koreji Andrej Babiš slíbil více peněz pro sport. Z rozpočtu na příští rok chce dát až devět miliard korun. Mimo jiné přislíbil novou halu na rychlobruslení a krytou sjezdovku.</p>
+<p><a href="https://www.irozhlas.cz/sport/olympijske-hry/andrej-babis-pchjongcchang-olympijske-hry-miliardy-kometa-brno-hala_1804232146_bor" target="_blank">Více informací</a></p>
+</div>
+<div class="slib">
+<h4 style="color: red;">1,7 miliardy</h4>
+<p><b>na kulturu</b></p>
+<p class="detail">Vláda v demisi během návštěvy Moravskoslezského kraje slíbila Ostravě peníze na novou knihovnu, koncertní halu a galerii. Memorandum o spolupráci při financováních kulturních staveb podepsal za kabinet ministr kultury Ilja Šmíd (za ANO).</p>
+<p><a href="https://ostrava.idnes.cz/vlada-andrej-babis-cerna-kostka-bily-stin-koncertni-sal-pge-/ostrava-zpravy.aspx?c=A180426_397998_ostrava-zpravy_jog" target="_blank">Více informací</a></p>
+</div>
+<div class="slib">
+<h4 style="color: red;">1,4 miliardy</h4>
+<p><b>na hokejovou halu</b></p>
+<p class="detail">Po vítězství brněnské Komety v hokejové extralize Andrej Babiš připomněl svůj slib týkající se stavby nové haly. Ta by měla vzniknout na brněnském výstavišti, hotová by pak mohla být v roce 2022.</p>
+<p><a href="https://www.irozhlas.cz/sport/hokej/hokej-kometa-brno-nova-hala-vystaviste-petr-vokarl_1804231350_vman" target="_blank">Více informací</a></p>
+</div>
+<div class="slib">
+<h4 style="color: red;">blíže neurčená částka</h4>
+<p><b>na platy zdravotníků</b></p>
+<p class="detail">Společně s ministrem zdravotnictví Adamem Vojtěchem (za ANO) Andrej Babiš odborům zkraje května přislíbil, že vláda v demisi dodrží slib předchozího kabinetu a navýší od příštího roku tarifní platy a mzdy zdravotníků o slíbených deset procent.</p>
+<p><a href="https://www.irozhlas.cz/zpravy-domov/vojtech-babis-zvyseni-platu-ano-lekari-sestry_1805041536_gol" target="_blank">Více informací</a></p>
+</div>
 <div class="slib">
 <h4 style="color: red;">27 miliard</h4>
 <p><b>na snížení daní</b></p>
@@ -140,9 +164,9 @@ options: [] #noheader, wide, noheader (, nopic)
 <p><a href="https://www.denik.cz/regiony/penize-ano-budou-slibili-starostum-premier-i-ministri-20180328.html" target="_blank">Více informací</a></p>
 </div>
 <div class="slib">
-<h4 style="color: red;">blíže neurčená částka</h4>
+<h4 style="color: red;">480 milionů</h4>
 <p><b>pro BMW</b></p>
-<p class="detail">BMW zamýšlí u Sokolova na Karlovarsku vybudovat zkušební polygon pro autonomní vozy za více než 6 miliard korun, Babiš během návštěvy Karlovarska uvedl, že bude chtít po automobilce závazek vytvoření pracovních míst pro místní. O podobě investiční pobídky by mělo být podle něho jasno do konce června.</p>
+<p class="detail">BMW zamýšlí u Sokolova na Karlovarsku vybudovat zkušební polygon pro autonomní vozy za více než 6 miliard korun. Podle memoranda schváleného vládou by automobilka mohla dostat investiční pobídku zhruba 480 milionů korun.</p>
 <p><a href="http://www.ceskenoviny.cz/zpravy/stat-bude-chtit-po-bmw-zavazek-prace-pro-mistni/1609988" target="_blank">Více informací</a></p>
 </div>
 <div class="slib">
@@ -153,17 +177,22 @@ options: [] #noheader, wide, noheader (, nopic)
 </div>
 </div>
 
-U některých slibů přitom chybí „nacenění“, jelikož odhad částky není zatím k dispozici. Redakce do seznamu také nezapočítala příslib 11,6 miliardy korun pro české zdravotnictví, který Babiš formuloval na svém facebooku, jelikož není přesně jasné, jak byl zamýšlen. Pokud by se však jednalo o zcela novou investici, Babišův závěrečný účet příslibů by skočil na více než 90 miliard korun.
+U některých slibů přitom chybí „nacenění“, jelikož odhad částky není zatím k dispozici. Redakce do seznamu také nezapočítala příslib 11,6 miliardy korun pro české zdravotnictví, který Babiš formuloval na svém facebooku, jelikož není přesně jasné, jak byl zamýšlen. Pokud by se však jednalo o zcela novou investici, Babišův závěrečný účet příslibů by skočil na více než 103 miliard korun.
 
 <right><h4>Nalezené miliardy</h4>Nejdříve to bylo přes osm miliard korun „úspor“ ministerstev, ze kterých plánuje Babišova vláda financovat opravu silnic nižších tříd. Napříč resorty kabinet vyčlenil pro letošní rok také peníze na slevu na jízdné, která začne platit v červnu. Nakonec premiér v demisi oznámil, že jeho vláda „našla“ v rozpočtu ministerstev i dalších státních institucí ušetřených bezmála 170 miliard korun v podobě nároků z nespotřebovaných výdajů. Jde však o fiktivní úsporu, která nemá finanční krytí. <a href="https://www.irozhlas.cz/zpravy-domov/andrej-babis-usetrene-penize-ministerstva-170-miliard-statni-rozpocet_1804101430_hm">Více informací</a></right>
 
 Třeba během výjezdu vlády v Libereckém kraji slíbil Babiš v Semilech novou mateřskou školu, v průběhu návštěvy Zlínska zase Kroměřížské nemocnici novou magnetickou rezonanci. Štědrý byl Babiš i v Brně. „Já si myslím, že si tu porodnici v Brně za dvě miliardy lidé zaslouží. I možná nový centrální příjem v IKEMu nebo v Krči, všude,“ [prohlásil dále před poslanci](https://www.psp.cz/eknih/2017ps/stenprot/012schuz/s012099.htm#r8).
 
+A v posledních týdnech přibyly další sliby. Po vítězství brněnské Komety v hokejové extralize Andrej Babiš připomněl svůj slib týkající se stavby nové haly. V Ostravě zase vláda v demisi minulý týden slíbila 1,7 miliardy na stavbu nové knihovny, sportovní haly a galerie.
+
 Další sliby přitom jednobarevný kabinet bez důvěry už realizuje – odsouhlasil třeba slevu na jízdném pro studenty a seniory, která vyjde státní kasu ročně na téměř 6 miliard korun. Polepší si také senioři, kterým vláda navýší o několik stovek korun důchod. A účet pro veřejný rozpočet? Ročně 14,5 miliardy korun.
 
+Server iROZHLAS.cz navíc [spočítal, kolik stojí vládní výjezdy do krajů](https://www.irozhlas.cz/zpravy-domov/vlada-vyjezdy-cesty-do-kraju-naklady-andrej-babis_1805040600_kno). Státní kasu vyšly dosud na půl milionu korun. Kabinet v demisi navštívil během dvou měsíců hned sedm regionů, další tři cesty ho pak čekají v následujícím měsíci.
 
-## 131 dnů bez důvěry
-Bez důvěry vládne kabinet Andreje Babiše už řadu měsíců, přesně 131 dnů od jmenování prezidentem Milošem Zemanem. Jak na tom byli jeho předchůdci? Třeba druhá vláda Mirka Topolánka vládla v demisi zhruba 127 dní, jednobarevný kabinet hnutí ANO ji tak minulý týden překonal. Rekordmanem je však v tomto ohledu zatím úřednická vláda Jiřího Rusnoka. Podívejte se v následujícím přehledu:
+Že by šlo o vládní kampaň za veřejné peníze, šéf kabinetu Andrej Babiš odmítá. „Jsem šetřivý člověk, to se o mně ví, takže mi věřte, že penězi ze státního nehýříme nesmyslně,“ uvedl serveru iROZHLAS.CZ.
+
+## 143 dnů bez důvěry
+Bez důvěry vládne kabinet Andreje Babiše už řadu měsíců, přesně 143 dnů od jmenování prezidentem Milošem Zemanem. Jak na tom byli jeho předchůdci? Třeba druhá vláda Mirka Topolánka vládla v demisi zhruba 127 dní, jednobarevný kabinet hnutí ANO ji tak minulý týden překonal. Rekordmanem je však v tomto ohledu zatím úřednická vláda Jiřího Rusnoka. Podívejte se v následujícím přehledu:
 
 <div id="chart"></div>
 
@@ -261,7 +290,7 @@ Kabinet Andreje Babiše přitom provázejí výrazné personální změny – za
 <right>
 	<h4>Babišova vláda v číslech</h4>
 <ul>	
-<li><b style="font-size:120%;">5</b> „spanilých“ jízd podnikl letos vládní kabinet, navštívil třeba Středočeský kraj, Zlínsko nebo Liberecko. Do prázdnin má v plánu vyjet svým mikrobusem do dalších pěti regionů, tento týden to bude Moravskoslezský kraj.</li>
+<li><b style="font-size:120%;">7</b> „spanilých“ jízd podnikl letos vládní kabinet, navštívil třeba Středočeský kraj, Zlínsko nebo Liberecko. Do prázdnin má v plánu vyjet svým mikrobusem do dalších tří regionů.</li>
 <li><b style="font-size:120%;">10</b> ředitelů státních podniků a institucí skončilo za vlády Andreje Babiše, a to včetně šéfa generální inspekce Michala Murína.</li>
 <li><b style="font-size:120%;">73</b> míst zrušila od nového roku vláda tzv. systematizací státní správy. O místo tak tehdy přišlo i 25 náměstků. Druhé kolo personálních změn přišlo v březnu, kdy skončila další dvacítka úředníků.</li>
 <li><b style="font-size:120%;">170</b> miliard „našla“ vláda v demisi napříč resorty a dalšími státními institucemi. Jde o nároky z nespotřebovaných výdajů, které ale nejsou finančně kryty.</li>
