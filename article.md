@@ -1,5 +1,5 @@
 title: "Vláda 143 dnů bez důvěry<br><span style='font-size: 65%;'>Babišovy sliby, personální změny i nalezené miliardy. Jaké má kabinet výsledky?</span>"
-perex: "Balík slibů v objemu bezmála 92 miliard korun, které od svého jmenování zformulovala vláda Andreje Babiše. A nejen to. Jednobarevný kabinet provázejí také výrazné personální změny, výjezdy do krajů či časný ranní budíček na zasedání. Jak se ale premiérovi a ministrům, kteří vládnou bez důvěry už několik měsíců, vlastně daří? Server iROZHLAS.cz připravil už dříve velký přehled, nyní přinášíme jeho aktualizovanou verzi."
+perex: "Balík slibů v objemu bezmála 110 miliard korun, které od svého jmenování zformulovala vláda Andreje Babiše. A nejen to. Jednobarevný kabinet provázejí také výrazné personální změny, výjezdy do krajů či časný ranní budíček na zasedání. Jak se ale premiérovi a ministrům, kteří vládnou bez důvěry už několik měsíců, vlastně daří? Server iROZHLAS.cz připravil už dříve velký přehled, nyní přinášíme jeho aktualizovanou verzi."
 published: "23. dubna 2018 | aktualizováno 5. května 2018"
 # autoři se zadávají až v redakčním systému
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/profimedia-036841440_180420-115355_kno.jpg?itok=A9XLsESk
@@ -9,9 +9,9 @@ libraries: [highcharts, jquery, "https://cdnjs.cloudflare.com/ajax/libs/slick-ca
 options: [] #noheader, wide, noheader (, nopic)
 ---
 
-„Já jsem toho moc neslíbil. My chodíme a sepisujeme investiční záměr této země. Nikdo to neudělal,“ [řekl na plénu sněmovny během interpelací v polovině dubna](https://www.psp.cz/eknih/2017ps/stenprot/012schuz/s012099.htm#r8) premiér v demisi a šéf hnutí ANO Andrej Babiš. Server iROZHLAS.cz proto všechny jeho sliby dohledal a spočítal. Výsledek? Jde o balík v objemu bezmála 92 miliard korun.
+„Já jsem toho moc neslíbil. My chodíme a sepisujeme investiční záměr této země. Nikdo to neudělal,“ [řekl na plénu sněmovny během interpelací v polovině dubna](https://www.psp.cz/eknih/2017ps/stenprot/012schuz/s012099.htm#r8) premiér v demisi a šéf hnutí ANO Andrej Babiš. Server iROZHLAS.cz proto všechny jeho sliby dohledal a spočítal. Výsledek? Jde o balík v objemu bezmála 110 miliard korun.
 
-## 92 miliard: plná nůše slibů
+## 110 miliard: plná nůše slibů
 <div class="slider1">
 <div class="slib">
 <h4 style="color: red;">9 miliard</h4>
@@ -51,9 +51,15 @@ options: [] #noheader, wide, noheader (, nopic)
 </div>
 <div class="slib">
 <h4 style="color: red;">11 miliard</h4>
-<p><b>na vyšší platy učitelů</b></p>
-<p class="detail">Platy učitelů by se měly zvýšit od ledna příštího roku, jak plánovala bývalá vláda ČSSD, ANO a KDU-ČSL. Ministr v demisi Robert Plaga chtěl původně navýšení o rok odložit, Babiš však resort ujistil, že peníze na reformu financování regionálního školství budou.</p>
+<p><b>pro školství</b></p>
+<p class="detail">Daná částka je podle ministra školství v demisi Roberta Plagy potřeba k nastartování reformy financování regionálního školství. Šéf resortu chtěl původně reformu, která má vyrovnat regionální rozdíly v platech, o rok odložit. Andrej Babiš však Plagu ujistil, že peníze na reformu budou.</p>
 <p><a href="http://www.ceskenoviny.cz/zpravy/reforma-financovani-skol-zacne-1-ledna-plaga-ziska-penize-navic/1602820" target="_blank">Více informací</a></p>
+</div>
+<div class="slib">
+<h4 style="color: red;">18,3 miliardy</h4>
+<p><b>na platy učitelů</b></p>
+<p class="detail">Andrej Babiš během jednání se zástupci vysokoškolských a středoškolských studentů řekl, že do školství má v příštím roce přitéct celkově až 30 miliard. Vedle peněz na reformu financování regionálního školství to má být totiž i 17 miliard korun na plošné zvýšení platů pedagogů a 1,3 miliardy na platy nepedagogických pracovníků.</p>
+<p><a href="https://www.irozhlas.cz/zpravy-domov/slevy-na-jizdnem-studenti-duchodci-andrej-babis-vydaje-na-skolstvi_1804201553_haf" target="_blank">Více informací</a></p>
 </div>
 <div class="slib">
 <h4 style="color: red;">5,83 miliardy</h4>
@@ -177,7 +183,7 @@ options: [] #noheader, wide, noheader (, nopic)
 </div>
 </div>
 
-U některých slibů přitom chybí „nacenění“, jelikož odhad částky není zatím k dispozici. Redakce do seznamu také nezapočítala příslib 11,6 miliardy korun pro české zdravotnictví, který Babiš formuloval na svém facebooku, jelikož není přesně jasné, jak byl zamýšlen. Pokud by se však jednalo o zcela novou investici, Babišův závěrečný účet příslibů by skočil na více než 103 miliard korun.
+U některých slibů přitom chybí „nacenění“, jelikož odhad částky není zatím k dispozici. Redakce do seznamu také nezapočítala příslib 11,6 miliardy korun pro české zdravotnictví, který Babiš formuloval na svém facebooku, jelikož není přesně jasné, jak byl zamýšlen. Pokud by se však jednalo o zcela novou investici, Babišův závěrečný účet příslibů by skočil na více než 121,5 miliard korun.
 
 <right><h4>Nalezené miliardy</h4>Nejdříve to bylo přes osm miliard korun „úspor“ ministerstev, ze kterých plánuje Babišova vláda financovat opravu silnic nižších tříd. Napříč resorty kabinet vyčlenil pro letošní rok také peníze na slevu na jízdné, která začne platit v červnu. Nakonec premiér v demisi oznámil, že jeho vláda „našla“ v rozpočtu ministerstev i dalších státních institucí ušetřených bezmála 170 miliard korun v podobě nároků z nespotřebovaných výdajů. Jde však o fiktivní úsporu, která nemá finanční krytí. <a href="https://www.irozhlas.cz/zpravy-domov/andrej-babis-usetrene-penize-ministerstva-170-miliard-statni-rozpocet_1804101430_hm">Více informací</a></right>
 
@@ -186,6 +192,8 @@ Třeba během výjezdu vlády v Libereckém kraji slíbil Babiš v Semilech novo
 A v posledních týdnech přibyly další sliby. Po vítězství brněnské Komety v hokejové extralize Andrej Babiš připomněl svůj slib týkající se stavby nové haly. V Ostravě zase vláda v demisi minulý týden slíbila 1,7 miliardy na stavbu nové knihovny, sportovní haly a galerie.
 
 Další sliby přitom jednobarevný kabinet bez důvěry už realizuje – odsouhlasil třeba slevu na jízdném pro studenty a seniory, která vyjde státní kasu ročně na téměř 6 miliard korun. Polepší si také senioři, kterým vláda navýší o několik stovek korun důchod. A účet pro veřejný rozpočet? Ročně 14,5 miliardy korun.
+
+V přehledu současně chybí například záměr ministra dopravy v demisi Dana Ťoka (za ANO) půjčit si 100 miliard korun na rozvoj železniční a silniční infrastruktury a železničních vozidel. Seznam totiž obsahuje pouze přislíbené peníze, nikoli způsob, jak budou sliby financovány.
 
 Server iROZHLAS.cz navíc [spočítal, kolik stojí vládní výjezdy do krajů](https://www.irozhlas.cz/zpravy-domov/vlada-vyjezdy-cesty-do-kraju-naklady-andrej-babis_1805040600_kno). Státní kasu vyšly dosud na půl milionu korun. Kabinet v demisi navštívil během dvou měsíců hned sedm regionů, další tři cesty ho pak čekají v následujícím měsíci.
 
