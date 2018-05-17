@@ -204,8 +204,8 @@ Bez důvěry vládne kabinet Andreje Babiše už řadu měsíců, přesně 156 d
 
 <div id="chart"></div>
 
-## 15 manažerů skončilo ve vedení klíčových institucí
-Kabinet Andreje Babiše přitom provázejí výrazné personální změny – za jeho vlády skončilo patnáct vysokých manažerů státních institucí. Z čela České pošty odešel Martin Elkán, skončila i dvojice ředitelů nemocnic Svatopluk Němeček a Andrea Vrbovská.
+## 16 manažerů skončilo ve vedení klíčových institucí
+Kabinet Andreje Babiše přitom provázejí výrazné personální změny – za jeho vlády skončilo šestnáct vysokých manažerů státních institucí. Z čela České pošty odešel Martin Elkán, skončila i dvojice ředitelů nemocnic Svatopluk Němeček a Andrea Vrbovská.
 <wide>
 <div class="slider2">
 <div class="slib">
