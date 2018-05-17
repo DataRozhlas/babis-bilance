@@ -1,4 +1,4 @@
-title: "Vláda 156 dnů bez důvěry<br><span style='font-size: 65%;'>Připočítali jsme další personální změny za Babišova kabinetu, podívejte se, kdo nový musel odejít</span>"
+title: "Vláda 156 dnů bez důvěry<br><span style='font-size: 65%;'>Připočítali jsme další personální změny za Babišova kabinetu. Podívejte se, kdo další musel odejít</span>"
 perex: "Další výrazné personální změny provázejí kabinet bez důvěry Andreje Babiše (ANO). Server iROZHLAS.cz jeho sliby a personální obměny poprvé spočítal v dubnu, již v květnu přinesl aktualizovanou verzi a nyní přidává další změny. Svoje místo musel prozatím dočasně opustit ředitel Úřadu pro zahraniční styky a informace Jiří Šašek, místo u pražské policie opustil nadřízený vyšetřovatele kauzy Čapí hnízdo."
 published: "23. dubna 2018 | aktualizováno 18. května 2018"
 # autoři se zadávají až v redakčním systému
