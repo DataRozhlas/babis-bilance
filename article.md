@@ -1,5 +1,5 @@
-title: "Vláda 156 dnů bez důvěry<br><span style='font-size: 65%;'>Babišovy sliby, personální změny i nalezené miliardy. Jaké má kabinet výsledky?</span>"
-perex: "Balík slibů v objemu bezmála 110 miliard korun, které od svého jmenování zformulovala vláda Andreje Babiše. A nejen to. Jednobarevný kabinet provázejí také výrazné personální změny, výjezdy do krajů či časný ranní budíček na zasedání. Jak se ale premiérovi a ministrům, kteří vládnou bez důvěry už několik měsíců, vlastně daří? Server iROZHLAS.cz připravil už dříve velký přehled, nyní přinášíme jeho aktualizovanou verzi."
+title: "Vláda 156 dnů bez důvěry<br><span style='font-size: 65%;'>Připočítali jsme další personální změny za Babišova kabinetu, podívejte se, kdo nový musel odejít</span>"
+perex: "Další výrazné personální změny provázejí kabinet bez důvěry Andreje Babiše (ANO). Server iROZHLAS.cz jeho sliby a personální obměny poprvé spočítal v dubnu, již v květnu přinesl aktualizovanou verzi a nyní přidává další změny. Svoje místo musel prozatím dočasně opustit ředitel Úřadu pro zahraniční styky a informace Jiří Šašek, místo u pražské policie opustil nadřízený vyšetřovatele kauzy Čapí hnízdo."
 published: "23. dubna 2018 | aktualizováno 18. května 2018"
 # autoři se zadávají až v redakčním systému
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/profimedia-036841440_180420-115355_kno.jpg?itok=A9XLsESk
@@ -9,9 +9,295 @@ libraries: [highcharts, jquery, "https://cdnjs.cloudflare.com/ajax/libs/slick-ca
 options: [] #noheader, wide, noheader (, nopic)
 ---
 
-„Já jsem toho moc neslíbil. My chodíme a sepisujeme investiční záměr této země. Nikdo to neudělal,“ [řekl na plénu sněmovny během interpelací v polovině dubna](https://www.psp.cz/eknih/2017ps/stenprot/012schuz/s012099.htm#r8) premiér v demisi a šéf hnutí ANO Andrej Babiš. Server iROZHLAS.cz proto všechny jeho sliby dohledal a spočítal. Výsledek? Jde o balík v objemu bezmála 110 miliard korun.
+Šaška dočasně zprostil výkonu služby ministr vnitra v demisi Lubomír Metnar (ANO). Nemohl prý dále čekat, protože za Šaškova vedení mohla vzniknout škoda velkého rozsahu. Skončil také další vrcholný manažer ve státních službách, ředitel Lesů ČR Daniel Szórád. Podle ministra zemědělství v demisi Jiřího Milka (nestr.) podnik řídil nekoncepčně a podcenil kůrovcovou kalamitu.
+
+Bez vysvětlení odvolala ministryně obrany v demisi z ANO Karla Šlechtová ředitele Vojenského výzkumného ústavu Bohuslava Šafáře poté, co se vyjádřil ke kauze Novičok. A na vlastní žádost z čela pražské policie odchází Miloš Trojánek, nadřízený vyšetřovatele kauzy Čapí hnízdo. Trojánek se podřízeného Pavla Nevtípila opakovaně zastal, když politici včetně Babiše zpochybňovali jeho práci.
+
+## 16 manažerů skončilo ve vedení klíčových institucí
+Za vlády Andreje Babiše skončilo už šestnáct vysokých manažerů státních institucí. Z čela České pošty odešel Martin Elkán, funkce opustila i dvojice ředitelů nemocnic Svatopluk Němeček a Andrea Vrbovská.
+
+<wide>
+<div class="slider2">
+<div class="slib">
+<h4 style="color: red;">Jiří Šašek</h4>
+<p style="height:5ex;"><b>ředitel Úřadu pro zahraniční styky a informace</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/blahut.png">
+<p class="detail">Ministr vnitra v demisi Lubomír Metnar (ANO) ho dočasně zprostil výkonu služby kvůli vyšetřování hospodaření této tajné služby, při němž podle ministra mohla vzniknout škoda velkého rozsahu.</p>
+<p><a href="https://www.irozhlas.cz/zpravy-domov/rozvedka-ministr-vnitra-lubomir-metnar-jiri-sasek_1805171111_ako" target="_blank">Více informací</a></p>
+</div>
+<div class="slib">
+<h4 style="color: red;">Bohuslav Šafář</h4>
+<p style="height:5ex;"><b>ředitel Vojenského výzkumného ústavu</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/safar.jpg">
+<p class="detail">Ministryně obrany v demisi Karla Šlechtová (ANO) ho odvolala „z mnoha interních důvodů“. Přesné pohnutky sdělit odmítla, spekuluje se, že tak učinila kvůli Šafářově prohlášení ke kauze Novičok.</p>
+<p><a href="https://www.irozhlas.cz/zpravy-domov/slechtova-odvolala-safare-bez-duvodu_1805141715_rez" target="_blank">Více informací</a></p>
+</div>
+<div class="slib">
+<h4 style="color: red;">Daniel Szórád</h4>
+<p style="height:5ex;"><b>generální ředitel Lesů ČR</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/szorad.jpg">
+<p class="detail">Odvolal ho ministr zemědělství v demisi Jiří Milek (nestr.), šéf státního podniku podle něj postupoval nekoncepčně a zanedbal situaci kolem přemnoženého kůrovce.</p>
+<p><a href="https://www.irozhlas.cz/zpravy-domov/ministr-zemedelstvi-jiri-milek-lesy-cr-daniel-szorad_1805111430_ako" target="_blank">Více informací</a></p>
+</div>
+<div class="slib">
+<h4 style="color: red;">Miloš Trojánek</h4>
+<p style="height:5ex;"><b>ředitel pražské policie</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/trojanek.jpg">
+<p class="detail">Trojánek odešel na vlastní žádost, míří do čela policie na Vysočině. Trojánek se letos opakovaně zastal vyšetřovatele kauzy Čapí hnízdo Pavla Nevtípila proti zpochybňování jeho práce ze strany politiků včetně Babiše.</p>
+<p><a href="https://www.irozhlas.cz/zpravy-domov/capi-hnizdo-milos-trojanek-policie-praha_1805161139_ako" target="_blank">Více informací</a></p>
+</div>
+<div class="slib">
+<h4 style="color: red;">Zdeněk Blahuta</h4>
+<p style="height:5ex;"><b>ředitel Státního ústavu pro kontrolu léčiv</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/blahuta.jpg">
+<p class="detail">Za vlády Andreje Babiše skončil Blahuta jako první, o odvolání z funkce požádal sám z osobních důvodů.</p>
+<p><a href="https://www.irozhlas.cz/zpravy-domov/sef-statniho-ustavu-pro-kontrolu-leciv-zdenek-blahuta-konci-ve-funkci-o-odvolani_1712181457_mos" target="_blank">Více informací</a></p>
+</div>
+<div class="slib">
+<h4 style="color: red;">Karel Kučera</h4>
+<p style="height:5ex;"><b>ředitel CzechInvestu</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/kucera2.jpg">
+<p class="detail">Vládní agenturu pro podporu podnikání a investic vedl Kučera čtyři roky, podle ministra v demisi Tomáše Hünera (za ANO) ale svými nedávnými rozhodnutími destabilizoval její chod.</p>
+<p><a href="https://www.irozhlas.cz/ekonomika/ministr-prumyslu-tomas-huner-czechinvest-karel-kucera_1801091734_ako" target="_blank">Více informací</a></p>
+</div>
+<div class="slib">
+<h4 style="color: red;">Andrea Vrbovská</h4>
+<p style="height:5ex;"><b>ředitelka Nemocnice Na Bulovce</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/vrbovska.jpg">
+<p class="detail">Důvodem odvolání Vrbovské byla podle ministerstva zdravotnictví závažná zjištění, která se týkala její osoby a řízení nemocnice.</p>
+<p><a href="https://www.irozhlas.cz/zpravy-domov/nemocnice-na-bulovce-andrea-vrbovska-adam-vojtech_1801261213_haf" target="_blank">Více informací</a></p>
+</div>
+<div class="slib">
+<h4 style="color: red;">Svatopluk Němeček</h4>
+<p style="height:5ex;"><b>ředitel Fakultní nemocnice Ostrava</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/nemecek.jpg">
+<p class="detail">Němeček vedl podle ministerstva zdravotnictví ostravskou nemocnici špatně, jeho manažerská selhání prý vedla k její destabilizaci.</p>
+<p><a href="https://www.irozhlas.cz/zpravy-domov/svatopluk-nemecek-nemocnice-odvolany-adam-vojtech-ano_1802091109_mos" target="_blank">Více informací</a></p>
+</div>
+<div class="slib">
+<h4 style="color: red;">Jitka Sosnovcová</h4>
+<p style="height:5ex;"><b>ředitelka Státního zdravotního ústavu</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/sosnovcova.jpg">
+<p class="detail">Sosnovcová rezignovala po prověrce Nejvyššího kontrolního úřadu, ten kvůli pochybením ústavu podal i trestní oznámení.</p>
+<p style="height:5ex;"><a href="https://www.irozhlas.cz/zpravy-domov/statniho-zdravotni-ustav-jitka-sosnovcova-rezignovala_1802201325_ako" target="_blank">Více informací</a></p>
+</div>
+<div class="slib">
+<h4 style="color: red;">Martin Elkán</h4>
+<p style="height:5ex;"><b>ředitel České pošty</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/elkan.jpg">
+<p class="detail">České poště chybí smysluplná vize fungování podniku, zdůvodnil odvolání Elkána ministr v demisi Lubomír Metnar (za ANO).</p>
+<p><a href="https://www.irozhlas.cz/zpravy-domov/ceska-posta-ministr-vnitra-lubomir-metnar_1802221931_ako" target="_blank">Více informací</a></p>
+</div>
+<div class="slib">
+<h4 style="color: red;">Pavel Surý</h4>
+<p style="height:5ex;"><b>ředitel Správy železniční dopravní cesty</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/sury.jpg">
+<p class="detail">Surý na post ředitele rezignoval sám z osobních důvodů, ve státním podniku nadále zůstane, bude ale působit na jiné pozici.</p>
+<p><a href="https://www.irozhlas.cz/ekonomika/reditel-szdc-konci-z-osobnich-duvodu_1802281638_jak" target="_blank">Více informací</a></p>
+</div>
+<div class="slib">
+<h4 style="color: red;">Svatava Maradová</h4>
+<p style="height:5ex;"><b>ředitelka Státního pozemkového úřadu</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/maradova.jpg">
+<p class="detail">Maradová avizovala, že rezignuje na svou funkci. Uvolnění pozice podle ní přispěje ke koaličním vyjednáváním o složení vlády.</p>
+<p><a href="https://www.irozhlas.cz/zpravy-domov/reditelka-statniho-pozemkoveho-uradu-maradova-oznamila-rezignaci-prospeje_1803201102_bar" target="_blank">Více informací</a></p>
+</div>
+<div class="slib">
+<h4 style="color: red;">Michal Murín</h4>
+<p style="height:5ex;"><b>ředitel Generální inspekce bezpečnostních sborů</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/murin.jpg">
+<p class="detail">Konec Murína ve funkci žádal premiér v demisi Andrej Babiš (ANO), nemá k němu prý důvěru a zpochybnil i hospodaření inspekce. Murín oznámil, že na funkci rezignuje ke konci dubna.</p>
+<p><a href="https://www.irozhlas.cz/zpravy-domov/murin-skonci-v-cele-gibs_1804170928_miz" target="_blank">Více informací</a></p>
+</div>
+<div class="slib">
+<h4 style="color: red;">Josef Bečvář</h4>
+<p style="height:5ex;"><b>náčelník generálního štábu Armády ČR</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/becvar.jpg">
+<p class="detail">Výměnu v čele armády schválila vláda na návrh ministryně v demisi Karly Šlechtové, novým náčelníkem generálního štábu se místo Bečváře stane Aleš Opata.</p>
+<p><a href="https://www.irozhlas.cz/zpravy-domov/slechtova-opata-nacelnik-generalniho-stabu_1803010916_pj" target="_blank">Více informací</a></p>
+</div>
+<div class="slib">
+<h4 style="color: red;">Karel Bureš</h4>
+<p style="height:5ex;"><b>ředitel České exportní banky</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/bures.jpg">
+<p class="detail">Dozorčí rada státní České exportní banky odvolala Bureše na konci března.</p>
+<p><a href="https://www.irozhlas.cz/ekonomika/ceska-exportni-banka-odvolala-karla-burese-novy-reditel_1803261422_rez" target="_blank">Více informací</a></p>
+</div>
+<div class="slib">
+<h4 style="color: red;">Zdeněk Blahut</h4>
+<p style="height:5ex;"><b>náměstek Úřadu pro zahr. styky a informace</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/blahut.png">
+<p class="detail">Blahut se rozhodl na post v čele civilní rozvědky rezignovat sám po nástupu Babišova kabinetu. Náměstkem byl od září 2014, do funkce ho jmenoval tehdejší ministr vnitra Milan Chovanec (ČSSD).</p>
+<p><a href="https://www.irozhlas.cz/zpravy-domov/namestek-civilni-rozvedky-zdenek-blahut-rezignoval_1801051254_dp" target="_blank">Více informací</a></p>
+</div>
+</div>
+</wide>
+
+<right>
+  <h4>Babišova vláda v číslech</h4>
+<ul>  
+<li><b style="font-size:120%;">7</b> „spanilých“ jízd podnikl letos vládní kabinet, navštívil třeba Středočeský kraj, Zlínsko nebo Liberecko. Do prázdnin má v plánu vyjet svým mikrobusem do dalších tří regionů.</li>
+<li><b style="font-size:120%;">10</b> ředitelů státních podniků a institucí skončilo za vlády Andreje Babiše, a to včetně šéfa generální inspekce Michala Murína.</li>
+<li><b style="font-size:120%;">73</b> míst zrušila od nového roku vláda tzv. systematizací státní správy. O místo tak tehdy přišlo i 25 náměstků. Druhé kolo personálních změn přišlo v březnu, kdy skončila další dvacítka úředníků.</li>
+<li><b style="font-size:120%;">170</b> miliard „našla“ vláda v demisi napříč resorty a dalšími státními institucemi. Jde o nároky z nespotřebovaných výdajů, které ale nejsou finančně kryty.</li>
+<li><b style="font-size:120%;">6</b> hodin ráno je čas, ve který většinou začíná v jednací den zasedat vláda.</li>
+</ul>
+</right>
+
+Po prověrce Nejvyššího kontrolního úřadu na post rezignovala také ředitelka Státního zdravotního ústavu Jitka Sosnovcová. Z „osobních důvodů“ rezignoval i šéf Správy železniční dopravní cesty Pavel Surý, ten však odmítá, že by jeho rozhodnutí souviselo s nástupem nového kabinetu. Přesouvá se současně na jinou pozici v rámci organizace ([více o personálních změnách čtěte ZDE](https://www.irozhlas.cz/zpravy-domov/vlada-andrej-babis-odvolani-reditele_1802231532_ako)).
+
+
+Svůj úmysl odejít z vedení Státního pozemkového úřadu oznámila také Svatava Maradová. [Zdůvodnila to tehdy](https://www.irozhlas.cz/zpravy-domov/reditelka-statniho-pozemkoveho-uradu-maradova-oznamila-rezignaci-prospeje_1803201102_bar) mimo jiné snahou usnadnit vyjednávání o vládě.
+
+Premiér v demisi Babiš žádal také konec šéfa Michala Murína ve vedení Generální inspekce bezpečnostních sborů, nemá k němu prý důvěru a zpochybnil i hospodaření inspekce. [Murín nakonec oznámil, že skončí ke konci dubna](https://www.irozhlas.cz/zpravy-domov/murin-skonci-v-cele-gibs_1804170928_miz), oficiálně ze zdravotních důvodů.
+
+Na návrh ministryně v demisi Karly Šlechtové (za ANO) schválila vláda také výměnu v čele armády – novým náčelníkem generálního štábu se místo Josefa Bečváře stane Aleš Opata.
+
+## 26 náměstků odešlo z ministerstev
+
+Vláda navíc krátce po svém jmenování loni v prosinci připravila tzv. systematizaci státní správy. V praxi to znamenalo zrušení 73 pozic na ministerstvech a Úřadu vlády, zkraje roku tak z ministerstev odešlo 26 náměstků reprezentujících převážně předchozí koaliční partnery ČSSD a KDU-ČSL ([více čtěte ZDE](https://www.irozhlas.cz/zpravy-domov/na-ministerstvech-se-menily-a-rusily-stovky-mist-usilujeme-o-efektivni-stat-rika_1801110600_dp)). Další náměstek pak skončil během druhého kola [personálních změn v březnu](https://www.irozhlas.cz/zpravy-domov/andrej-babis-statni-sprava-sluzebni-zakon-josef-postranecky_1804091245_hm).
+
+<wide>
+<div class="slider2">
+<div class="slib">
+<h4 style="color: red;">Ondřej Závodský (KDU-ČSL)</h4>
+<p style="height:5ex;"><b>ministerstvo financí</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/zavodsky.jpg">
+</div>
+<div class="slib">
+<h4 style="color: red;">Petr Hulínský (ČSSD)</h4>
+<p style="height:5ex;"><b>ministerstvo vnitra</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/hulinsky.jpg">
+</div>
+<div class="slib">
+<h4 style="color: red;">Monika Pálková (KDU-ČSL)</h4>
+<p style="height:5ex;"><b>ministerstvo vnitra</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/palkova.jpg">
+</div>
+<div class="slib">
+<h4 style="color: red;">Jiří Jirsa (KDU-ČSL)</h4>
+<p style="height:5ex;"><b>ministerstvo zemědělství</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/jirsa.jpg">
+</div>
+<div class="slib">
+<h4 style="color: red;">Petr Hejduk</h4>
+<p style="height:5ex;"><b>ministerstvo práce a sociálních věcí</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/blahut.png">
+</div>
+<div class="slib">
+<h4 style="color: red;">Zuzana J. Stöcklová (ČSSD)</h4>
+<p style="height:5ex;"><b>ministerstvo práce a sociálních věcí</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/stocklova.jpg">
+</div>
+<div class="slib">
+<h4 style="color: red;">Martin Kučera</h4>
+<p style="height:5ex;"><b>ministerstvo práce a sociálních věcí</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/kucera.jpg">
+</div>
+<div class="slib">
+<h4 style="color: red;">Jiří Šír</h4>
+<p style="height:5ex;"><b>ministerstvo zemědělství</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/blahut.png">
+</div>
+<div class="slib">
+<h4 style="color: red;">Patrik Košický</h4>
+<p style="height:5ex;"><b>ministerstvo kultury</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/kosicky.jpg">
+</div>
+<div class="slib">
+<h4 style="color: red;">Robert Baxa</h4>
+<p style="height:5ex;"><b>ministerstvo práce a sociálních věcí</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/baxa.jpg">
+</div>
+<div class="slib">
+<h4 style="color: red;">Gabriela Nekolová (ČSSD)</h4>
+<p style="height:5ex;"><b>ministerstvo práce a sociálních věcí</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/nekolova.jpg">
+</div>
+<div class="slib">
+<h4 style="color: red;">Tomáš Petříček (ČSSD)</h4>
+<p style="height:5ex;"><b>ministerstvo práce a sociálních věcí</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/blahut.png">
+</div>
+<div class="slib">
+<h4 style="color: red;">Jiří Havlíček (ČSSD)</h4>
+<p style="height:5ex;"><b>ministerstvo průmyslu a obchodu</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/havlicek.jpg">
+</div>
+<div class="slib">
+<h4 style="color: red;">Kamil Rudolecký (ČSSD)</h4>
+<p style="height:5ex;"><b>ministerstvo dopravy</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/blahut.png">
+</div>
+<div class="slib">
+<h4 style="color: red;">Petr Pavlík (ČSSD)</h4>
+<p style="height:5ex;"><b>ministerstvo školství</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/pavlik.jpg">
+</div>
+<div class="slib">
+<h4 style="color: red;">Jaroslav Fidrmuc (KDU-ČSL)</h4>
+<p style="height:5ex;"><b>ministerstvo školství</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/fidrmuc.jpg">
+</div>
+<div class="slib">
+<h4 style="color: red;">Lukáš Kaucký (ČSSD)</h4>
+<p style="height:5ex;"><b>ministerstvo zahraničních věcí</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/kaucky.jpg">
+</div>
+<div class="slib">
+<h4 style="color: red;">Václav Kolaja</h4>
+<p style="height:5ex;"><b>ministerstvo zahraničních věcí</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/kolaja.jpg">
+</div>
+<div class="slib">
+<h4 style="color: red;">Lenka Teska Arnoštová (ČSSD)</h4>
+<p style="height:5ex;"><b>ministerstvo zdravotnictví</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/arnostova.jpg">
+</div>
+<div class="slib">
+<h4 style="color: red;">Kamal Farhan (ANO)</h4>
+<p style="height:5ex;"><b>ministerstvo zdravotnictví</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/farhan.jpg">
+</div>
+<div class="slib">
+<h4 style="color: red;">Tom Philipp</h4>
+<p style="height:5ex;"><b>ministerstvo zdravotnictví</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/phillip.jpg">
+</div>
+<div class="slib">
+<h4 style="color: red;">Petr Landa</h4>
+<p style="height:5ex;"><b>ministerstvo zdravotnictví</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/blahut.png">
+</div>
+<div class="slib">
+<h4 style="color: red;">Zdeněk Adamec</h4>
+<p style="height:5ex;"><b>ministerstvo zemědělství</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/adamec.jpg">
+</div>
+<div class="slib">
+<h4 style="color: red;">Lenka Kovačovská</h4>
+<p style="height:5ex;"><b>ministerstvo průmyslu a obchodu</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/kovacovska.jpg">
+</div>
+<div class="slib">
+<h4 style="color: red;">Tomáš Novotný (ČSSD)</h4>
+<p style="height:5ex;"><b>ministerstvo průmyslu a obchodu</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/novotny.jpg">
+</div>
+<div class="slib">
+<h4 style="color: red;">Jiří Koliba (KDU-ČSL )</h4>
+<p style="height:5ex;"><b>ministerstvo průmyslu a obchodu</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/koliba.jpg">
+</div>
+
+</wide>
+
+Opozice v souvislosti se změnami mluvila o čistkách a kritizovala jejich účelovost. Babiš to však odmítl, naopak hovořil o racionalizaci a úsporách díky zrušení zbytečných míst. „Usilujeme o efektivní stát,“ [komentoval to](https://www.irozhlas.cz/zpravy-domov/na-ministerstvech-se-menily-a-rusily-stovky-mist-usilujeme-o-efektivni-stat-rika_1801110600_dp) už dříve v sms pro Radiožurnál. Aktuálně Babiš personální změny nechtěl komentovat, na dotaz serveru iROZHLAS.cz nereagoval.
 
 ## 110 miliard: plná nůše slibů
+
+Kromě personálních změn server iROZHLAS.cz již dříve dohledal a spočítal všechny sliby premiéra v demisi. Výsledek? Jde o balík v objemu bezmála 110 miliard korun. „Já jsem toho moc neslíbil. My chodíme a sepisujeme investiční záměr této země. Nikdo to neudělal,“ tvrdil přitom Babiš. [řekl na plénu sněmovny během interpelací v polovině dubna](https://www.psp.cz/eknih/2017ps/stenprot/012schuz/s012099.htm#r8) premiér v demisi a šéf hnutí ANO Andrej Babiš. 
+
 <div class="slider1">
 <div class="slib">
 <h4 style="color: red;">9 miliard</h4>
@@ -204,289 +490,10 @@ Bez důvěry vládne kabinet Andreje Babiše už řadu měsíců, přesně 156 d
 
 <div id="chart"></div>
 
-## 16 manažerů skončilo ve vedení klíčových institucí
-Kabinet Andreje Babiše přitom provázejí výrazné personální změny – za jeho vlády skončilo šestnáct vysokých manažerů státních institucí. Z čela České pošty odešel Martin Elkán, skončila i dvojice ředitelů nemocnic Svatopluk Němeček a Andrea Vrbovská.
-<wide>
-<div class="slider2">
-<div class="slib">
-<h4 style="color: red;">Jiří Šašek</h4>
-<p style="height:5ex;"><b>ředitel Úřadu pro zahraniční styky a informace</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/blahut.png">
-<p class="detail">Ministr vnitra v demisi Lubomír Metnar (ANO) ho dočasně zprostil výkonu služby kvůli vyšetřování hospodaření této tajné služby, při němž podle ministra mohla vzniknout škoda velkého rozsahu.</p>
-<p><a href="https://www.irozhlas.cz/zpravy-domov/rozvedka-ministr-vnitra-lubomir-metnar-jiri-sasek_1805171111_ako" target="_blank">Více informací</a></p>
-</div>
-<div class="slib">
-<h4 style="color: red;">Bohuslav Šafář</h4>
-<p style="height:5ex;"><b>ředitel Vojenského výzkumného ústavu</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/safar.jpg">
-<p class="detail">Ministryně obrany v demisi Karla Šlechtová (ANO) ho odvolala „z mnoha interních důvodů“. Přesné pohnutky sdělit odmítla, spekuluje se, že tak učinila kvůli Šafářově prohlášení ke kauze Novičok.</p>
-<p><a href="https://www.irozhlas.cz/zpravy-domov/slechtova-odvolala-safare-bez-duvodu_1805141715_rez" target="_blank">Více informací</a></p>
-</div>
-<div class="slib">
-<h4 style="color: red;">Daniel Szórád</h4>
-<p style="height:5ex;"><b>generální ředitel Lesů ČR</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/szorad.jpg">
-<p class="detail">Odvolal ho ministr zemědělství v demisi Jiří Milek (nestr.), šéf státního podniku podle něj postupoval nekoncepčně a zanedbal situaci kolem přemnoženého kůrovce.</p>
-<p><a href="https://www.irozhlas.cz/zpravy-domov/ministr-zemedelstvi-jiri-milek-lesy-cr-daniel-szorad_1805111430_ako" target="_blank">Více informací</a></p>
-</div>
-<div class="slib">
-<h4 style="color: red;">Miloš Trojánek</h4>
-<p style="height:5ex;"><b>ředitel pražské policie</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/trojanek.jpg">
-<p class="detail">Trojánek odešel na vlastní žádost, míří do čela policie na Vysočině. Trojánek se letos opakovaně zastal vyšetřovatele kauzy Čapí hnízdo Pavla Nevtípila proti zpochybňování jeho práce ze strany politiků včetně Babiše.</p>
-<p><a href="https://www.irozhlas.cz/zpravy-domov/capi-hnizdo-milos-trojanek-policie-praha_1805161139_ako" target="_blank">Více informací</a></p>
-</div>
-<div class="slib">
-<h4 style="color: red;">Zdeněk Blahuta</h4>
-<p style="height:5ex;"><b>ředitel Státního ústavu pro kontrolu léčiv</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/blahuta.jpg">
-<p class="detail">Za vlády Andreje Babiše skončil Blahuta jako první, o odvolání z funkce požádal sám z osobních důvodů.</p>
-<p><a href="https://www.irozhlas.cz/zpravy-domov/sef-statniho-ustavu-pro-kontrolu-leciv-zdenek-blahuta-konci-ve-funkci-o-odvolani_1712181457_mos" target="_blank">Více informací</a></p>
-</div>
-<div class="slib">
-<h4 style="color: red;">Karel Kučera</h4>
-<p style="height:5ex;"><b>ředitel CzechInvestu</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/kucera2.jpg">
-<p class="detail">Vládní agenturu pro podporu podnikání a investic vedl Kučera čtyři roky, podle ministra v demisi Tomáše Hünera (za ANO) ale svými nedávnými rozhodnutími destabilizoval její chod.</p>
-<p><a href="https://www.irozhlas.cz/ekonomika/ministr-prumyslu-tomas-huner-czechinvest-karel-kucera_1801091734_ako" target="_blank">Více informací</a></p>
-</div>
-<div class="slib">
-<h4 style="color: red;">Andrea Vrbovská</h4>
-<p style="height:5ex;"><b>ředitelka Nemocnice Na Bulovce</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/vrbovska.jpg">
-<p class="detail">Důvodem odvolání Vrbovské byla podle ministerstva zdravotnictví závažná zjištění, která se týkala její osoby a řízení nemocnice.</p>
-<p><a href="https://www.irozhlas.cz/zpravy-domov/nemocnice-na-bulovce-andrea-vrbovska-adam-vojtech_1801261213_haf" target="_blank">Více informací</a></p>
-</div>
-<div class="slib">
-<h4 style="color: red;">Svatopluk Němeček</h4>
-<p style="height:5ex;"><b>ředitel Fakultní nemocnice Ostrava</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/nemecek.jpg">
-<p class="detail">Němeček vedl podle ministerstva zdravotnictví ostravskou nemocnici špatně, jeho manažerská selhání prý vedla k její destabilizaci.</p>
-<p><a href="https://www.irozhlas.cz/zpravy-domov/svatopluk-nemecek-nemocnice-odvolany-adam-vojtech-ano_1802091109_mos" target="_blank">Více informací</a></p>
-</div>
-<div class="slib">
-<h4 style="color: red;">Jitka Sosnovcová</h4>
-<p style="height:5ex;"><b>ředitelka Státního zdravotního ústavu</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/sosnovcova.jpg">
-<p class="detail">Sosnovcová rezignovala po prověrce Nejvyššího kontrolního úřadu, ten kvůli pochybením ústavu podal i trestní oznámení.</p>
-<p style="height:5ex;"><a href="https://www.irozhlas.cz/zpravy-domov/statniho-zdravotni-ustav-jitka-sosnovcova-rezignovala_1802201325_ako" target="_blank">Více informací</a></p>
-</div>
-<div class="slib">
-<h4 style="color: red;">Martin Elkán</h4>
-<p style="height:5ex;"><b>ředitel České pošty</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/elkan.jpg">
-<p class="detail">České poště chybí smysluplná vize fungování podniku, zdůvodnil odvolání Elkána ministr v demisi Lubomír Metnar (za ANO).</p>
-<p><a href="https://www.irozhlas.cz/zpravy-domov/ceska-posta-ministr-vnitra-lubomir-metnar_1802221931_ako" target="_blank">Více informací</a></p>
-</div>
-<div class="slib">
-<h4 style="color: red;">Pavel Surý</h4>
-<p style="height:5ex;"><b>ředitel Správy železniční dopravní cesty</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/sury.jpg">
-<p class="detail">Surý na post ředitele rezignoval sám z osobních důvodů, ve státním podniku nadále zůstane, bude ale působit na jiné pozici.</p>
-<p><a href="https://www.irozhlas.cz/ekonomika/reditel-szdc-konci-z-osobnich-duvodu_1802281638_jak" target="_blank">Více informací</a></p>
-</div>
-<div class="slib">
-<h4 style="color: red;">Svatava Maradová</h4>
-<p style="height:5ex;"><b>ředitelka Státního pozemkového úřadu</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/maradova.jpg">
-<p class="detail">Maradová avizovala, že rezignuje na svou funkci. Uvolnění pozice podle ní přispěje ke koaličním vyjednáváním o složení vlády.</p>
-<p><a href="https://www.irozhlas.cz/zpravy-domov/reditelka-statniho-pozemkoveho-uradu-maradova-oznamila-rezignaci-prospeje_1803201102_bar" target="_blank">Více informací</a></p>
-</div>
-<div class="slib">
-<h4 style="color: red;">Michal Murín</h4>
-<p style="height:5ex;"><b>ředitel Generální inspekce bezpečnostních sborů</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/murin.jpg">
-<p class="detail">Konec Murína ve funkci žádal premiér v demisi Andrej Babiš (ANO), nemá k němu prý důvěru a zpochybnil i hospodaření inspekce. Murín oznámil, že na funkci rezignuje ke konci dubna.</p>
-<p><a href="https://www.irozhlas.cz/zpravy-domov/murin-skonci-v-cele-gibs_1804170928_miz" target="_blank">Více informací</a></p>
-</div>
-<div class="slib">
-<h4 style="color: red;">Josef Bečvář</h4>
-<p style="height:5ex;"><b>náčelník generálního štábu Armády ČR</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/becvar.jpg">
-<p class="detail">Výměnu v čele armády schválila vláda na návrh ministryně v demisi Karly Šlechtové, novým náčelníkem generálního štábu se místo Bečváře stane Aleš Opata.</p>
-<p><a href="https://www.irozhlas.cz/zpravy-domov/slechtova-opata-nacelnik-generalniho-stabu_1803010916_pj" target="_blank">Více informací</a></p>
-</div>
-<div class="slib">
-<h4 style="color: red;">Karel Bureš</h4>
-<p style="height:5ex;"><b>ředitel České exportní banky</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/bures.jpg">
-<p class="detail">Dozorčí rada státní České exportní banky odvolala Bureše na konci března.</p>
-<p><a href="https://www.irozhlas.cz/ekonomika/ceska-exportni-banka-odvolala-karla-burese-novy-reditel_1803261422_rez" target="_blank">Více informací</a></p>
-</div>
-<div class="slib">
-<h4 style="color: red;">Zdeněk Blahut</h4>
-<p style="height:5ex;"><b>náměstek Úřadu pro zahr. styky a informace</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/blahut.png">
-<p class="detail">Blahut se rozhodl na post v čele civilní rozvědky rezignovat sám po nástupu Babišova kabinetu. Náměstkem byl od září 2014, do funkce ho jmenoval tehdejší ministr vnitra Milan Chovanec (ČSSD).</p>
-<p><a href="https://www.irozhlas.cz/zpravy-domov/namestek-civilni-rozvedky-zdenek-blahut-rezignoval_1801051254_dp" target="_blank">Více informací</a></p>
-</div>
-</div>
-</wide>
-
-<right>
-	<h4>Babišova vláda v číslech</h4>
-<ul>	
-<li><b style="font-size:120%;">7</b> „spanilých“ jízd podnikl letos vládní kabinet, navštívil třeba Středočeský kraj, Zlínsko nebo Liberecko. Do prázdnin má v plánu vyjet svým mikrobusem do dalších tří regionů.</li>
-<li><b style="font-size:120%;">10</b> ředitelů státních podniků a institucí skončilo za vlády Andreje Babiše, a to včetně šéfa generální inspekce Michala Murína.</li>
-<li><b style="font-size:120%;">73</b> míst zrušila od nového roku vláda tzv. systematizací státní správy. O místo tak tehdy přišlo i 25 náměstků. Druhé kolo personálních změn přišlo v březnu, kdy skončila další dvacítka úředníků.</li>
-<li><b style="font-size:120%;">170</b> miliard „našla“ vláda v demisi napříč resorty a dalšími státními institucemi. Jde o nároky z nespotřebovaných výdajů, které ale nejsou finančně kryty.</li>
-<li><b style="font-size:120%;">6</b> hodin ráno je čas, ve který většinou začíná v jednací den zasedat vláda.</li>
-</ul>
-</right>
-
-Po prověrce Nejvyššího kontrolního úřadu na post rezignovala také ředitelka Státního zdravotního ústavu Jitka Sosnovcová. Z „osobních důvodů“ rezignoval i šéf Správy železniční dopravní cesty Pavel Surý, ten však odmítá, že by jeho rozhodnutí souviselo s nástupem nového kabinetu. Přesouvá se současně na jinou pozici v rámci organizace ([více o personálních změnách čtěte ZDE](https://www.irozhlas.cz/zpravy-domov/vlada-andrej-babis-odvolani-reditele_1802231532_ako)).
-
-
-Svůj úmysl odejít z vedení Státního pozemkového úřadu oznámila také Svatava Maradová. [Zdůvodnila to tehdy](https://www.irozhlas.cz/zpravy-domov/reditelka-statniho-pozemkoveho-uradu-maradova-oznamila-rezignaci-prospeje_1803201102_bar) mimo jiné snahou usnadnit vyjednávání o vládě.
-
-Premiér v demisi Babiš žádal také konec šéfa Michala Murína ve vedení Generální inspekce bezpečnostních sborů, nemá k němu prý důvěru a zpochybnil i hospodaření inspekce. [Murín nakonec oznámil, že skončí ke konci dubna](https://www.irozhlas.cz/zpravy-domov/murin-skonci-v-cele-gibs_1804170928_miz), oficiálně ze zdravotních důvodů.
-
-Na návrh ministryně v demisi Karly Šlechtové (za ANO) schválila vláda také výměnu v čele armády – novým náčelníkem generálního štábu se místo Josefa Bečváře stane Aleš Opata.
-
-## 26 náměstků odešlo z ministerstev
-
-Vláda navíc krátce po svém jmenování loni v prosinci připravila tzv. systematizaci státní správy. V praxi to znamenalo zrušení 73 pozic na ministerstvech a Úřadu vlády, zkraje roku tak z ministerstev odešlo 26 náměstků reprezentujících převážně předchozí koaliční partnery ČSSD a KDU-ČSL ([více čtěte ZDE](https://www.irozhlas.cz/zpravy-domov/na-ministerstvech-se-menily-a-rusily-stovky-mist-usilujeme-o-efektivni-stat-rika_1801110600_dp)). Další náměstek pak skončil během druhého kola [personálních změn v březnu](https://www.irozhlas.cz/zpravy-domov/andrej-babis-statni-sprava-sluzebni-zakon-josef-postranecky_1804091245_hm).
-
-<wide>
-<div class="slider2">
-<div class="slib">
-<h4 style="color: red;">Ondřej Závodský (KDU-ČSL)</h4>
-<p style="height:5ex;"><b>ministerstvo financí</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/zavodsky.jpg">
-</div>
-<div class="slib">
-<h4 style="color: red;">Petr Hulínský (ČSSD)</h4>
-<p style="height:5ex;"><b>ministerstvo vnitra</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/hulinsky.jpg">
-</div>
-<div class="slib">
-<h4 style="color: red;">Monika Pálková (KDU-ČSL)</h4>
-<p style="height:5ex;"><b>ministerstvo vnitra</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/palkova.jpg">
-</div>
-<div class="slib">
-<h4 style="color: red;">Jiří Jirsa (KDU-ČSL)</h4>
-<p style="height:5ex;"><b>ministerstvo zemědělství</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/jirsa.jpg">
-</div>
-<div class="slib">
-<h4 style="color: red;">Petr Hejduk</h4>
-<p style="height:5ex;"><b>ministerstvo práce a sociálních věcí</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/blahut.png">
-</div>
-<div class="slib">
-<h4 style="color: red;">Zuzana J. Stöcklová (ČSSD)</h4>
-<p style="height:5ex;"><b>ministerstvo práce a sociálních věcí</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/stocklova.jpg">
-</div>
-<div class="slib">
-<h4 style="color: red;">Martin Kučera</h4>
-<p style="height:5ex;"><b>ministerstvo práce a sociálních věcí</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/kucera.jpg">
-</div>
-<div class="slib">
-<h4 style="color: red;">Jiří Šír</h4>
-<p style="height:5ex;"><b>ministerstvo zemědělství</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/blahut.png">
-</div>
-<div class="slib">
-<h4 style="color: red;">Patrik Košický</h4>
-<p style="height:5ex;"><b>ministerstvo kultury</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/kosicky.jpg">
-</div>
-<div class="slib">
-<h4 style="color: red;">Robert Baxa</h4>
-<p style="height:5ex;"><b>ministerstvo práce a sociálních věcí</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/baxa.jpg">
-</div>
-<div class="slib">
-<h4 style="color: red;">Gabriela Nekolová (ČSSD)</h4>
-<p style="height:5ex;"><b>ministerstvo práce a sociálních věcí</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/nekolova.jpg">
-</div>
-<div class="slib">
-<h4 style="color: red;">Tomáš Petříček (ČSSD)</h4>
-<p style="height:5ex;"><b>ministerstvo práce a sociálních věcí</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/blahut.png">
-</div>
-<div class="slib">
-<h4 style="color: red;">Jiří Havlíček (ČSSD)</h4>
-<p style="height:5ex;"><b>ministerstvo průmyslu a obchodu</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/havlicek.jpg">
-</div>
-<div class="slib">
-<h4 style="color: red;">Kamil Rudolecký (ČSSD)</h4>
-<p style="height:5ex;"><b>ministerstvo dopravy</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/blahut.png">
-</div>
-<div class="slib">
-<h4 style="color: red;">Petr Pavlík (ČSSD)</h4>
-<p style="height:5ex;"><b>ministerstvo školství</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/pavlik.jpg">
-</div>
-<div class="slib">
-<h4 style="color: red;">Jaroslav Fidrmuc (KDU-ČSL)</h4>
-<p style="height:5ex;"><b>ministerstvo školství</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/fidrmuc.jpg">
-</div>
-<div class="slib">
-<h4 style="color: red;">Lukáš Kaucký (ČSSD)</h4>
-<p style="height:5ex;"><b>ministerstvo zahraničních věcí</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/kaucky.jpg">
-</div>
-<div class="slib">
-<h4 style="color: red;">Václav Kolaja</h4>
-<p style="height:5ex;"><b>ministerstvo zahraničních věcí</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/kolaja.jpg">
-</div>
-<div class="slib">
-<h4 style="color: red;">Lenka Teska Arnoštová (ČSSD)</h4>
-<p style="height:5ex;"><b>ministerstvo zdravotnictví</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/arnostova.jpg">
-</div>
-<div class="slib">
-<h4 style="color: red;">Kamal Farhan (ANO)</h4>
-<p style="height:5ex;"><b>ministerstvo zdravotnictví</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/farhan.jpg">
-</div>
-<div class="slib">
-<h4 style="color: red;">Tom Philipp</h4>
-<p style="height:5ex;"><b>ministerstvo zdravotnictví</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/phillip.jpg">
-</div>
-<div class="slib">
-<h4 style="color: red;">Petr Landa</h4>
-<p style="height:5ex;"><b>ministerstvo zdravotnictví</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/blahut.png">
-</div>
-<div class="slib">
-<h4 style="color: red;">Zdeněk Adamec</h4>
-<p style="height:5ex;"><b>ministerstvo zemědělství</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/adamec.jpg">
-</div>
-<div class="slib">
-<h4 style="color: red;">Lenka Kovačovská</h4>
-<p style="height:5ex;"><b>ministerstvo průmyslu a obchodu</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/kovacovska.jpg">
-</div>
-<div class="slib">
-<h4 style="color: red;">Tomáš Novotný (ČSSD)</h4>
-<p style="height:5ex;"><b>ministerstvo průmyslu a obchodu</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/novotny.jpg">
-</div>
-<div class="slib">
-<h4 style="color: red;">Jiří Koliba (KDU-ČSL )</h4>
-<p style="height:5ex;"><b>ministerstvo průmyslu a obchodu</b></p>
-<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/koliba.jpg">
-</div>
-
-</wide>
-
-Opozice v souvislosti se změnami mluvila o čistkách a kritizovala jejich účelovost. Babiš to však odmítl, naopak hovořil o racionalizaci a úsporách díky zrušení zbytečných míst. „Usilujeme o efektivní stát,“ [komentoval to](https://www.irozhlas.cz/zpravy-domov/na-ministerstvech-se-menily-a-rusily-stovky-mist-usilujeme-o-efektivni-stat-rika_1801110600_dp) už dříve v sms pro Radiožurnál. Aktuálně Babiš personální změny nechtěl komentovat, na dotaz serveru iROZHLAS.cz nereagoval.
 
 ## 498 hlasování ve sněmovně
 
-Hnutí ANO [obnovilo jednání](https://www.irozhlas.cz/zpravy-domov/jan-hamacek-cssd-andrej-babis-ano-vlada_1804201731_ako) se sociálními demokraty a mnohé nasvědčuje tomu, že s nimi bude vládnout – místopředseda hnutí Jaroslav [Faltýnek v neděli řekl](https://www.irozhlas.cz/zpravy-domov/jaroslav-faltynek-hnuti-ano-koalicni-smlouva_1804221219_pj), že text koaliční smlouvy by chtěl mít hotový během dvou týdnů. Statistická [analýza dosavadních pěti stovek hlasování](https://www.irozhlas.cz/zpravy-domov/hlasovani-poslanci-koalice-vlada-snemovna-ano-cssd-kscm-spd_1804130605_pek) v Poslanecké sněmovně však ukazuje, že častěji než s ČSSD bývají poslanci vládního hnutí ve shodě s komunisty. Ostatní strany vůči ANO bývají v opozici, nejvýrazněji ODS, TOP 09 a STAN.
+Hnutí ANO [obnovilo jednání](https://www.irozhlas.cz/zpravy-domov/jan-hamacek-cssd-andrej-babis-ano-vlada_1804201731_ako) se sociálními demokraty a mnohé nasvědčuje tomu, že s nimi bude vládnout. Statistická [analýza dosavadních pěti stovek hlasování](https://www.irozhlas.cz/zpravy-domov/hlasovani-poslanci-koalice-vlada-snemovna-ano-cssd-kscm-spd_1804130605_pek) v Poslanecké sněmovně však ukazuje, že častěji než s ČSSD bývají poslanci vládního hnutí ve shodě s komunisty. Ostatní strany vůči ANO bývají v opozici, nejvýrazněji ODS, TOP 09 a STAN.
 
 <wide>
 <div id="container"></div>
