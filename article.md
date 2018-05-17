@@ -1,6 +1,6 @@
-title: "Vláda 143 dnů bez důvěry<br><span style='font-size: 65%;'>Babišovy sliby, personální změny i nalezené miliardy. Jaké má kabinet výsledky?</span>"
+title: "Vláda 156 dnů bez důvěry<br><span style='font-size: 65%;'>Babišovy sliby, personální změny i nalezené miliardy. Jaké má kabinet výsledky?</span>"
 perex: "Balík slibů v objemu bezmála 110 miliard korun, které od svého jmenování zformulovala vláda Andreje Babiše. A nejen to. Jednobarevný kabinet provázejí také výrazné personální změny, výjezdy do krajů či časný ranní budíček na zasedání. Jak se ale premiérovi a ministrům, kteří vládnou bez důvěry už několik měsíců, vlastně daří? Server iROZHLAS.cz připravil už dříve velký přehled, nyní přinášíme jeho aktualizovanou verzi."
-published: "23. dubna 2018 | aktualizováno 5. května 2018"
+published: "23. dubna 2018 | aktualizováno 18. května 2018"
 # autoři se zadávají až v redakčním systému
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/profimedia-036841440_180420-115355_kno.jpg?itok=A9XLsESk
 coverimg_note: "Foto Profimedia"
@@ -199,15 +199,43 @@ Server iROZHLAS.cz navíc [spočítal, kolik stojí vládní výjezdy do krajů]
 
 Že by šlo o vládní kampaň za veřejné peníze, šéf kabinetu Andrej Babiš odmítá. „Jsem šetřivý člověk, to se o mně ví, takže mi věřte, že penězi ze státního nehýříme nesmyslně,“ uvedl serveru iROZHLAS.CZ.
 
-## 143 dnů bez důvěry
-Bez důvěry vládne kabinet Andreje Babiše už řadu měsíců, přesně 143 dnů od jmenování prezidentem Milošem Zemanem. Jak na tom byli jeho předchůdci? Třeba druhá vláda Mirka Topolánka vládla v demisi zhruba 127 dní, jednobarevný kabinet hnutí ANO ji tak minulý týden překonal. Rekordmanem je však v tomto ohledu zatím úřednická vláda Jiřího Rusnoka. Podívejte se v následujícím přehledu:
+## 156 dnů bez důvěry
+Bez důvěry vládne kabinet Andreje Babiše už řadu měsíců, přesně 156 dnů od jmenování prezidentem Milošem Zemanem. Jak na tom byli jeho předchůdci? Třeba druhá vláda Mirka Topolánka vládla v demisi zhruba 127 dní, jednobarevný kabinet hnutí ANO ji tak v dubnu překonal. Rekordmanem je však v tomto ohledu zatím úřednická vláda Jiřího Rusnoka. Podívejte se v následujícím přehledu:
 
 <div id="chart"></div>
 
-## 12 manažerů skončilo ve vedení klíčových institucí
-Kabinet Andreje Babiše přitom provázejí výrazné personální změny – za jeho vlády skončilo dvanáct vysokých manažerů státních institucí. Z čela České pošty odešel Martin Elkán, skončila i dvojice ředitelů nemocnic Svatopluk Němeček a Andrea Vrbovská.
+## 15 manažerů skončilo ve vedení klíčových institucí
+Kabinet Andreje Babiše přitom provázejí výrazné personální změny – za jeho vlády skončilo patnáct vysokých manažerů státních institucí. Z čela České pošty odešel Martin Elkán, skončila i dvojice ředitelů nemocnic Svatopluk Němeček a Andrea Vrbovská.
 <wide>
 <div class="slider2">
+<div class="slib">
+<h4 style="color: red;">Jiří Šašek</h4>
+<p style="height:5ex;"><b>ředitel Úřadu pro zahraniční styky a informace</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/blahut.png">
+<p class="detail">Ministr vnitra v demisi Lubomír Metnar (ANO) ho dočasně zprostil výkonu služby kvůli vyšetřování hospodaření této tajné služby, při němž podle ministra mohla vzniknout škoda velkého rozsahu.</p>
+<p><a href="https://www.irozhlas.cz/zpravy-domov/rozvedka-ministr-vnitra-lubomir-metnar-jiri-sasek_1805171111_ako" target="_blank">Více informací</a></p>
+</div>
+<div class="slib">
+<h4 style="color: red;">Bohuslav Šafář</h4>
+<p style="height:5ex;"><b>ředitel Vojenského výzkumného ústavu</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/safar.jpg">
+<p class="detail">Ministryně obrany v demisi Karla Šlechtová (ANO) ho odvolala „z mnoha interních důvodů“. Přesné pohnutky sdělit odmítla, spekuluje se, že tak učinila kvůli Šafářově prohlášení ke kauze Novičok.</p>
+<p><a href="https://www.irozhlas.cz/zpravy-domov/slechtova-odvolala-safare-bez-duvodu_1805141715_rez" target="_blank">Více informací</a></p>
+</div>
+<div class="slib">
+<h4 style="color: red;">Daniel Szórád</h4>
+<p style="height:5ex;"><b>generální ředitel Lesů ČR</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/szorad.jpg">
+<p class="detail">Odvolal ho ministr zemědělství v demisi Jiří Milek (nestr.), šéf státního podniku podle něj postupoval nekoncepčně a zanedbal situaci kolem přemnoženého kůrovce.</p>
+<p><a href="https://www.irozhlas.cz/zpravy-domov/ministr-zemedelstvi-jiri-milek-lesy-cr-daniel-szorad_1805111430_ako" target="_blank">Více informací</a></p>
+</div>
+<div class="slib">
+<h4 style="color: red;">Miloš Trojánek</h4>
+<p style="height:5ex;"><b>ředitel pražské policie</b></p>
+<img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/trojanek.jpg">
+<p class="detail">Trojánek odešel na vlastní žádost, míří do čela policie na Vysočině. Trojánek se letos opakovaně zastal vyšetřovatele kauzy Čapí hnízdo Pavla Nevtípila proti zpochybňování jeho práce ze strany politiků včetně Babiše.</p>
+<p><a href="https://www.irozhlas.cz/zpravy-domov/capi-hnizdo-milos-trojanek-policie-praha_1805161139_ako" target="_blank">Více informací</a></p>
+</div>
 <div class="slib">
 <h4 style="color: red;">Zdeněk Blahuta</h4>
 <p style="height:5ex;"><b>ředitel Státního ústavu pro kontrolu léčiv</b></p>
