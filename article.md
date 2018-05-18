@@ -1,5 +1,5 @@
 title: "156 dnů vládnutí bez důvěry:<br><span style='font-size: 65%;'>změny pod taktovkou Babišova kabinetu nekončí. Kdo další musel odejít?</span>"
-perex: "Další výrazné personální změny provázejí kabinet bez důvěry Andreje Babiše (ANO). Server iROZHLAS.cz jeho sliby a personální obměny poprvé spočítal v dubnu, již v květnu přinesl aktualizovanou verzi a nyní přidává další změny. Svoje místo musel prozatím dočasně opustit ředitel Úřadu pro zahraniční styky a informace Jiří Šašek, z postu šéfa pražské policie odešel také nadřízený vyšetřovatele kauzy Čapí hnízdo."
+perex: "Další výrazné personální změny provázejí kabinet bez důvěry Andreje Babiše (ANO). Server iROZHLAS.cz jeho sliby a personální obměny poprvé spočítal v dubnu, již v květnu přinesl aktualizovanou verzi a nyní přidává další změny. Svoje místo musel prozatím dočasně opustit ředitel Úřadu pro zahraniční styky a informace Jiří Šašek, z postu šéfa pražské policie odešel také nadřízený vyšetřovatele kauzy Čapí hnízdo Miloš Trojánek."
 published: "23. dubna 2018 | aktualizováno 18. května 2018"
 # autoři se zadávají až v redakčním systému
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/profimedia-036841440_180420-115355_kno.jpg?itok=A9XLsESk
@@ -149,7 +149,7 @@ Po prověrce Nejvyššího kontrolního úřadu na post rezignovala také ředit
 
 Svůj úmysl odejít z vedení Státního pozemkového úřadu oznámila také Svatava Maradová. [Zdůvodnila to tehdy](https://www.irozhlas.cz/zpravy-domov/reditelka-statniho-pozemkoveho-uradu-maradova-oznamila-rezignaci-prospeje_1803201102_bar) mimo jiné snahou usnadnit vyjednávání o vládě.
 
-Premiér v demisi Babiš žádal také konec šéfa Michala Murína ve vedení Generální inspekce bezpečnostních sborů, nemá k němu prý důvěru a zpochybnil i hospodaření inspekce. [Murín nakonec oznámil, že skončí ke konci dubna](https://www.irozhlas.cz/zpravy-domov/murin-skonci-v-cele-gibs_1804170928_miz), oficiálně ze zdravotních důvodů.
+V čele Generální inspekce bezpečnostních sborů [skončil ke konci dubna také Michal Murín](https://www.irozhlas.cz/zpravy-domov/murin-skonci-v-cele-gibs_1804170928_miz), a to oficiálně ze zdravotních důvodů. Jeho odchod žádal šéf vlády v demisi Babiš, neměl k němu prý důvěru a zpochybnil i hospodaření inspekce.
 
 Na návrh ministryně v demisi Karly Šlechtové (za ANO) schválila vláda také výměnu v čele armády – novým náčelníkem generálního štábu se místo Josefa Bečváře stane Aleš Opata.
 
@@ -477,7 +477,7 @@ Třeba během výjezdu vlády v Libereckém kraji slíbil Babiš v Semilech novo
 
 A v posledních týdnech přibyly další sliby. Po vítězství brněnské Komety v hokejové extralize Andrej Babiš připomněl svůj slib týkající se stavby nové haly. V Ostravě zase vláda v demisi minulý týden slíbila 1,7 miliardy na stavbu nové knihovny, sportovní haly a galerie.
 
-Další sliby přitom jednobarevný kabinet bez důvěry už realizuje – odsouhlasil třeba slevu na jízdném pro studenty a seniory, která vyjde státní kasu ročně na téměř 6 miliard korun. Polepší si také senioři, kterým vláda navýší o několik stovek korun důchod. A účet pro veřejný rozpočet? Ročně 14,5 miliardy korun.
+Další sliby přitom jednobarevný kabinet bez důvěry už realizuje – odsouhlasil třeba slevu na jízdném pro studenty a seniory, která vyjde státní kasu ročně na téměř 6 miliard korun. Polepší si také senioři, kterým vláda navýší o několik stovek korun důchod. A účet pro veřejný rozpočet? Ročně 14,5 miliardy korun. Vedle toho má v příštím roce na důchody přitéct ze státního rozpočtu v rámci standardní valorizace dalších 20 miliard.
 
 V přehledu současně chybí například záměr ministra dopravy v demisi Dana Ťoka (za ANO) půjčit si 100 miliard korun na rozvoj železniční a silniční infrastruktury a železničních vozidel. Seznam totiž obsahuje pouze přislíbené peníze, nikoli způsob, jak budou sliby financovány.
 
