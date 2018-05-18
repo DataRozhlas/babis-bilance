@@ -1,5 +1,5 @@
-title: "Vláda 156 dnů bez důvěry<br><span style='font-size: 65%;'>Připočítali jsme další personální změny pod taktovkou Babišova kabinetu. Podívejte se, kdo také musel odejít</span>"
-perex: "Další výrazné personální změny provázejí kabinet bez důvěry Andreje Babiše (ANO). Server iROZHLAS.cz jeho sliby a personální obměny poprvé spočítal v dubnu, již v květnu přinesl aktualizovanou verzi a nyní přidává další změny. Svoje místo musel prozatím dočasně opustit ředitel Úřadu pro zahraniční styky a informace Jiří Šašek, místo u pražské policie opustil nadřízený vyšetřovatele kauzy Čapí hnízdo."
+title: "156 dnů vládnutí bez důvěry:<br><span style='font-size: 65%;'>změny pod taktovkou Babišova kabinetu nekončí. Kdo další musel odejít?</span>"
+perex: "Další výrazné personální změny provázejí kabinet bez důvěry Andreje Babiše (ANO). Server iROZHLAS.cz jeho sliby a personální obměny poprvé spočítal v dubnu, již v květnu přinesl aktualizovanou verzi a nyní přidává další změny. Svoje místo musel prozatím dočasně opustit ředitel Úřadu pro zahraniční styky a informace Jiří Šašek, z postu šéfa pražské policie odešel také nadřízený vyšetřovatele kauzy Čapí hnízdo."
 published: "23. dubna 2018 | aktualizováno 18. května 2018"
 # autoři se zadávají až v redakčním systému
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/profimedia-036841440_180420-115355_kno.jpg?itok=A9XLsESk
@@ -9,12 +9,12 @@ libraries: [highcharts, jquery, "https://cdnjs.cloudflare.com/ajax/libs/slick-ca
 options: [] #noheader, wide, noheader (, nopic)
 ---
 
-Šaška dočasně zprostil výkonu služby ministr vnitra v demisi Lubomír Metnar (ANO). Nemohl prý dále čekat, protože za Šaškova vedení mohla vzniknout škoda velkého rozsahu. Skončil také další vrcholný manažer ve státních službách, ředitel Lesů ČR Daniel Szórád. Podle ministra zemědělství v demisi Jiřího Milka (nestr.) podnik řídil nekoncepčně a podcenil kůrovcovou kalamitu.
+Šaška dočasně zprostil výkonu služby ministr vnitra v demisi Lubomír Metnar (za ANO). Nemohl prý dále čekat, protože za Šaškova vedení mohla vzniknout škoda velkého rozsahu. Skončil také další vrcholný manažer ve státních službách, ředitel Lesů ČR Daniel Szórád. Podle ministra zemědělství v demisi Jiřího Milka (za ANO) podnik řídil nekoncepčně a podcenil kůrovcovou kalamitu.
 
-Bez vysvětlení odvolala ministryně obrany v demisi z ANO Karla Šlechtová ředitele Vojenského výzkumného ústavu Bohuslava Šafáře poté, co se vyjádřil ke kauze Novičok. A na vlastní žádost z čela pražské policie odchází Miloš Trojánek, nadřízený vyšetřovatele kauzy Čapí hnízdo. Trojánek se podřízeného Pavla Nevtípila opakovaně zastal, když politici včetně Babiše zpochybňovali jeho práci.
+Bez vysvětlení odvolala ministryně obrany v demisi za ANO Karla Šlechtová ředitele Vojenského výzkumného ústavu Bohuslava Šafáře poté, co se vyjádřil ke kauze Novičok. A na vlastní žádost z čela pražské policie odchází Miloš Trojánek, nadřízený vyšetřovatele kauzy Čapí hnízdo. Trojánek se podřízeného Pavla Nevtípila opakovaně zastal, když politici včetně Babiše zpochybňovali jeho práci.
 
 ## 16 manažerů skončilo ve vedení klíčových institucí
-Za vlády Andreje Babiše skončilo už šestnáct vysokých manažerů státních institucí. Z čela České pošty odešel Martin Elkán, funkce opustila i dvojice ředitelů nemocnic Svatopluk Němeček a Andrea Vrbovská.
+Za vlády Andreje Babiše tak už skončilo šestnáct vysokých manažerů státních institucí. Z čela České pošty odešel Martin Elkán, funkce opustila i dvojice ředitelů nemocnic Svatopluk Němeček a Andrea Vrbovská.
 
 <wide>
 <div class="slider2">
@@ -22,21 +22,21 @@ Za vlády Andreje Babiše skončilo už šestnáct vysokých manažerů státní
 <h4 style="color: red;">Jiří Šašek</h4>
 <p style="height:5ex;"><b>ředitel Úřadu pro zahraniční styky a informace</b></p>
 <img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/blahut.png">
-<p class="detail">Ministr vnitra v demisi Lubomír Metnar (ANO) ho dočasně zprostil výkonu služby kvůli vyšetřování hospodaření této tajné služby, při němž podle ministra mohla vzniknout škoda velkého rozsahu.</p>
+<p class="detail">Ministr vnitra v demisi Lubomír Metnar (za ANO) ho dočasně zprostil výkonu služby kvůli vyšetřování hospodaření této tajné služby, při němž podle ministra mohla vzniknout škoda velkého rozsahu.</p>
 <p><a href="https://www.irozhlas.cz/zpravy-domov/rozvedka-ministr-vnitra-lubomir-metnar-jiri-sasek_1805171111_ako" target="_blank">Více informací</a></p>
 </div>
 <div class="slib">
 <h4 style="color: red;">Bohuslav Šafář</h4>
 <p style="height:5ex;"><b>ředitel Vojenského výzkumného ústavu</b></p>
 <img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/safar.jpg">
-<p class="detail">Ministryně obrany v demisi Karla Šlechtová (ANO) ho odvolala „z mnoha interních důvodů“. Přesné pohnutky sdělit odmítla, Šafáře odvolala krátce poté, co se vyjádřil ke kauze Novičok.</p>
+<p class="detail">Ministryně obrany v demisi Karla Šlechtová (za ANO) ho odvolala „z mnoha interních důvodů“. Přesné pohnutky sdělit odmítla, Šafáře odvolala krátce poté, co se vyjádřil ke kauze Novičok.</p>
 <p><a href="https://www.irozhlas.cz/zpravy-domov/slechtova-odvolala-safare-bez-duvodu_1805141715_rez" target="_blank">Více informací</a></p>
 </div>
 <div class="slib">
 <h4 style="color: red;">Daniel Szórád</h4>
 <p style="height:5ex;"><b>generální ředitel Lesů ČR</b></p>
 <img class="portret" src="https://samizdat.blob.core.windows.net/storage/babis-bilance/szorad.jpg">
-<p class="detail">Odvolal ho ministr zemědělství v demisi Jiří Milek (nestr.), šéf státního podniku podle něj postupoval nekoncepčně a zanedbal situaci kolem přemnoženého kůrovce.</p>
+<p class="detail">Odvolal ho ministr zemědělství v demisi Jiří Milek (za ANO), šéf státního podniku podle něj postupoval nekoncepčně a zanedbal situaci kolem přemnoženého kůrovce.</p>
 <p><a href="https://www.irozhlas.cz/zpravy-domov/ministr-zemedelstvi-jiri-milek-lesy-cr-daniel-szorad_1805111430_ako" target="_blank">Více informací</a></p>
 </div>
 <div class="slib">
@@ -136,8 +136,8 @@ Za vlády Andreje Babiše skončilo už šestnáct vysokých manažerů státní
 <right>
   <h4>Babišova vláda v číslech</h4>
 <ul>  
-<li><b style="font-size:120%;">7</b> „spanilých“ jízd podnikl letos vládní kabinet, navštívil třeba Středočeský kraj, Zlínsko nebo Liberecko. Do prázdnin má v plánu vyjet svým mikrobusem do dalších tří regionů.</li>
-<li><b style="font-size:120%;">10</b> ředitelů státních podniků a institucí skončilo za vlády Andreje Babiše, a to včetně šéfa generální inspekce Michala Murína.</li>
+<li><b style="font-size:120%;">8</b> „spanilých“ jízd podnikl letos vládní kabinet, navštívil třeba Středočeský kraj, Zlínsko nebo Liberecko. Do prázdnin má v plánu vyjet svým mikrobusem do dalších tří regionů.</li>
+<li><b style="font-size:120%;">16</b> manažerů skončilo za vlády Andreje Babiše ve vedení klíčových institucí, a to včetně šéfa generální inspekce Michala Murína.</li>
 <li><b style="font-size:120%;">73</b> míst zrušila od nového roku vláda tzv. systematizací státní správy. O místo tak tehdy přišlo i 25 náměstků. Druhé kolo personálních změn přišlo v březnu, kdy skončila další dvacítka úředníků.</li>
 <li><b style="font-size:120%;">170</b> miliard „našla“ vláda v demisi napříč resorty a dalšími státními institucemi. Jde o nároky z nespotřebovaných výdajů, které ale nejsou finančně kryty.</li>
 <li><b style="font-size:120%;">6</b> hodin ráno je čas, ve který většinou začíná v jednací den zasedat vláda.</li>
@@ -292,11 +292,11 @@ Vláda navíc krátce po svém jmenování loni v prosinci připravila tzv. syst
 
 </wide>
 
-Opozice v souvislosti se změnami mluvila o čistkách a kritizovala jejich účelovost. Babiš to však odmítl, naopak hovořil o racionalizaci a úsporách díky zrušení zbytečných míst. „Usilujeme o efektivní stát,“ [komentoval to](https://www.irozhlas.cz/zpravy-domov/na-ministerstvech-se-menily-a-rusily-stovky-mist-usilujeme-o-efektivni-stat-rika_1801110600_dp) už dříve v sms pro Radiožurnál. Aktuálně Babiš personální změny nechtěl komentovat, na dotaz serveru iROZHLAS.cz nereagoval.
+Opozice v souvislosti se změnami mluvila o čistkách a kritizovala jejich účelovost. Babiš to však odmítl, naopak hovořil o racionalizaci a úsporách díky zrušení zbytečných míst. „Usilujeme o efektivní stát,“ [komentoval to](https://www.irozhlas.cz/zpravy-domov/na-ministerstvech-se-menily-a-rusily-stovky-mist-usilujeme-o-efektivni-stat-rika_1801110600_dp) už dříve v SMS pro Radiožurnál. Aktuálně Babiš personální změny nechtěl komentovat, na dotaz serveru iROZHLAS.cz nereagoval.
 
 ## 110 miliard: plná nůše slibů
 
-Kromě personálních změn server iROZHLAS.cz již dříve dohledal a spočítal všechny sliby premiéra v demisi. Výsledek? Jde o balík v objemu bezmála 110 miliard korun. „Já jsem toho moc neslíbil. My chodíme a sepisujeme investiční záměr této země. Nikdo to neudělal,“ tvrdil přitom Babiš. [řekl na plénu sněmovny během interpelací v polovině dubna](https://www.psp.cz/eknih/2017ps/stenprot/012schuz/s012099.htm#r8) premiér v demisi a šéf hnutí ANO Andrej Babiš. 
+Kromě personálních změn server iROZHLAS.cz již dříve dohledal a spočítal všechny sliby premiéra v demisi. Výsledek? Jde o balík v objemu bezmála 110 miliard korun. „Já jsem toho moc neslíbil. My chodíme a sepisujeme investiční záměr této země. Nikdo to neudělal,“ [řekl na plénu sněmovny během interpelací v polovině dubna](https://www.psp.cz/eknih/2017ps/stenprot/012schuz/s012099.htm#r8) Babiš. 
 
 <div class="slider1">
 <div class="slib">
@@ -331,8 +331,8 @@ Kromě personálních změn server iROZHLAS.cz již dříve dohledal a spočíta
 </div>
 <div class="slib">
 <h4 style="color: red;">14,5 miliardy</h4>
-<p><b>na navýšení důchodů seniorům</b></p>
-<p class="detail">Navýšení důchodů schválila vláda na konci února, změnu musí ještě schválit Parlament.</p>
+<p><b>na navýšení důchodů</b></p>
+<p class="detail">Zvýšení důchodů odklepla vláda na konci února, změnu platnou od ledna 2019 musí schválit ještě Parlament. Podle ministryně práce v demisi Jaroslavy Němcové (ANO) vyjde navýšení státní pokladnu na celkem 14,5 miliardy korun. Vedle toho má v příštím roce na důchody přitéct ze státního rozpočtu v rámci standardní valorizace dalších 20 miliard.</p>
 <p><a href="https://www.irozhlas.cz/ekonomika/seniori-nad-85-let-duchod_1802270934_pj" target="_blank">Více informací</a></p>
 </div>
 <div class="slib">
@@ -469,7 +469,7 @@ Kromě personálních změn server iROZHLAS.cz již dříve dohledal a spočíta
 </div>
 </div>
 
-U některých slibů přitom chybí „nacenění“, jelikož odhad částky není zatím k dispozici. Redakce do seznamu také nezapočítala příslib 11,6 miliardy korun pro české zdravotnictví, který Babiš formuloval na svém facebooku, jelikož není přesně jasné, jak byl zamýšlen. Pokud by se však jednalo o zcela novou investici, Babišův závěrečný účet příslibů by skočil na více než 121,5 miliard korun.
+U některých slibů přitom chybí „nacenění“, jelikož odhad částky není zatím k dispozici. Redakce do seznamu také nezapočítala příslib 11,6 miliardy korun pro české zdravotnictví, který Babiš formuloval na svém facebooku, jelikož není přesně jasné, jak byl zamýšlen. Pokud by se však jednalo o zcela novou investici, Babišův závěrečný účet příslibů by skočil na více než 121,5 miliardy korun.
 
 <right><h4>Nalezené miliardy</h4>Nejdříve to bylo přes osm miliard korun „úspor“ ministerstev, ze kterých plánuje Babišova vláda financovat opravu silnic nižších tříd. Napříč resorty kabinet vyčlenil pro letošní rok také peníze na slevu na jízdné, která začne platit v červnu. Nakonec premiér v demisi oznámil, že jeho vláda „našla“ v rozpočtu ministerstev i dalších státních institucí ušetřených bezmála 170 miliard korun v podobě nároků z nespotřebovaných výdajů. Jde však o fiktivní úsporu, která nemá finanční krytí. <a href="https://www.irozhlas.cz/zpravy-domov/andrej-babis-usetrene-penize-ministerstva-170-miliard-statni-rozpocet_1804101430_hm">Více informací</a></right>
 

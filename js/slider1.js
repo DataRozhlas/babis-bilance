@@ -67,7 +67,7 @@ Highcharts.chart('container', {
         zoomType: 'xy'
     },
     title: {
-        text: 'Kdo s kým nejčastěji hlasuje v poslanecké sněmovně?'
+        text: 'Kdo s kým nejčastěji hlasuje v Poslanecké sněmovně?'
     },
     subtitle: {
         text: 'Čím jsou si blíž, tím častěji hlasují shodně. Najetím myši zobrazíte jméno poslance'
